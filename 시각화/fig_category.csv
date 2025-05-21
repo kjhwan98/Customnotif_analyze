@@ -1,0 +1,1362 @@
+,deviceId,timestamp,action,importanceLevel,itemName,itemType,packageName,user,session,카테고리
+0,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:06:22,added,medium,후후,app,com.ktcs.whowho,u24,2,커뮤니케이션
+1,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:10:32,added,high,후후,app,com.ktcs.whowho,u6,2,커뮤니케이션
+2,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:11:54,added,low,회원,keyword,,u1,2,
+3,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:05:12,added,high,현대카드,app,com.hyundaicard.appcard,u24,2,금융
+4,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:10:28,added,low,헤이문,app,app.heymoon.release,u1,2,건강/운동
+5,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:24:45,added,medium,헤이문,app,app.heymoon.release,u18,2,건강/운동
+6,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:12:52,added,low,헤이문,app,app.heymoon.release,u6,2,건강/운동
+7,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:25:20,added,medium,해피포인트,app,com.hpapp,u7,2,라이프스타일
+8,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:09,added,low,해피포인트,app,com.hpapp,u8,2,라이프스타일
+9,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:42:48,added,low,해외,keyword,,u25,2,
+10,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:23:12,added,medium,한달살러,app,kr.nomadc.Monthler.prod,u8,2,여행 및 지역정보
+11,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:55,added,high,한국장학재단 출근부,app,com.kosaf.gpsAttendance,u20,2,교육
+12,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:33:01,added,medium,한국장학재단,app,com.mo.kosaf,u4,1,교육
+13,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:15,added,high,한국장학재단,app,com.mo.kosaf,u20,2,교육
+14,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:07:11,added,medium,한국장학재단,app,com.mo.kosaf,u24,2,교육
+15,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:37,added,low,하나카드,app,com.hanaskcard.paycla,u10,2,금융
+16,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:21:55,added,medium,하나카드,app,com.hanaskcard.paycla,u12,2,금융
+17,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:07:24,added,medium,하나카드,app,com.hanaskcard.paycla,u24,2,금융
+18,83dc8619-af39-4f15-b438-969f072ce778,2024-12-25 13:45:47,added,low,하나카드,app,com.hanaskcard.paycla,u6,2,금융
+19,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:04:32,added,high,하나은행,app,com.kebhana.hanapush,u1,2,금융
+20,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:22:15,added,medium,하나은행,app,com.kebhana.hanapush,u12,2,금융
+21,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:07:31,added,medium,하나은행,app,com.kebhana.hanapush,u24,2,금융
+22,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:16:58,added,low,하나은행,app,com.kebhana.hanapush,u6,2,금융
+23,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:25:41,added,medium,하나은행,app,com.kebhana.hanapush,u7,2,금융
+24,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-22 11:47:38,added,medium,하나은행,app,com.kebhana.hanapush,u4,2,금융
+25,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:22:09,added,medium,하나머니,app,kr.co.hanamembers.hmscustomer,u12,2,금융
+26,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:08:09,added,medium,하나머니,app,kr.co.hanamembers.hmscustomer,u13,2,금융
+27,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:23,added,low,하나머니,app,kr.co.hanamembers.hmscustomer,u20,2,금융
+28,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:06,added,medium,하나머니,app,kr.co.hanamembers.hmscustomer,u24,2,금융
+29,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:55,added,low,플레이오,app,com.gna.playio,u11,2,엔터테인먼트
+30,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:36,added,high,폴센트,app,com.deaguowl.fallcent,u4,1,쇼핑
+31,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:03,added,low,폴센트,app,com.deaguowl.fallcent,u14,2,쇼핑
+32,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:48,added,medium,포토,app,com.google.android.apps.photos,u4,1,사진
+33,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:10,added,low,포토,app,com.google.android.apps.photos,u3,2,사진
+34,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:50,added,high,포토,app,com.google.android.apps.photos,u9,2,사진
+35,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:28,added,low,편한가계부,app,com.realbyteapps.moneymanagerfree,u14,2,금융
+36,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:35,added,low,퍼그샵,app,kr.co.pugshop,u8,2,쇼핑
+37,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:30:32,added,high,Android 시스템,app,android,u4,1,기타
+38,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:14,added,high,Android 시스템,app,android,u1,2,기타
+39,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:51,added,low,Android 시스템,app,android,u11,2,기타
+40,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:08,added,high,Android 시스템,app,android,u12,2,기타
+41,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:03:47,added,high,Android 시스템,app,android,u13,2,기타
+42,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:00,added,high,Android 시스템,app,android,u14,2,기타
+43,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:32,added,high,Android 시스템,app,android,u15,2,기타
+44,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:14,added,high,Android 시스템,app,android,u16,2,기타
+45,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:49:51,added,high,Android 시스템,app,android,u17,2,기타
+46,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:57,added,high,Android 시스템,app,android,u18,2,기타
+47,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:36:27,added,high,Android 시스템,app,android,u19,2,기타
+48,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:35:40,added,high,패스오더,app,com.paytalab.mkseo.passorder,u15,2,식음료
+49,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:29,added,high,Android 시스템,app,android,u2,2,기타
+50,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:24:49,added,low,티스토리,app,net.daum.android.tistoryapp,u8,2,소셜
+51,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:02:14,added,high,티머니GO,app,kr.co.tmoney.tia,u1,2,지도/네비게이션
+52,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:38,added,low,티머니GO,app,kr.co.tmoney.tia,u24,2,지도/네비게이션
+53,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:19:16,added,low,티머니GO,app,kr.co.tmoney.tia,u6,2,지도/네비게이션
+54,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 17:55:59,added,high,"티머니
+갤럭시워치",app,com.tmoney.gear,u10,2,지도/네비게이션
+55,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:34,added,low,트리플,app,com.titicacacorp.triple,u21,2,여행 및 지역정보
+56,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:08,added,medium,투썸하트,app,com.cj.twosome,u8,2,라이프스타일
+57,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:33,added,high,Android 시스템,app,android,u20,2,기타
+58,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:34,added,high,Android 시스템,app,android,u21,2,기타
+59,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:50,added,high,Android 시스템,app,android,u22,2,기타
+60,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:10:30,added,high,Android 시스템,app,android,u23,2,기타
+61,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:12:36,added,high,Android 시스템,app,android,u24,2,기타
+62,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:47,added,high,Android 시스템,app,android,u25,2,기타
+63,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:05,added,high,Android 시스템,app,android,u26,2,기타
+64,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:11:04,added,high,Android 시스템,app,android,u3,2,기타
+65,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:05:38,added,high,Android 시스템,app,android,u5,2,기타
+66,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:04:11,added,high,Android 시스템,app,android,u6,2,기타
+67,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:08,added,medium,Android 시스템,app,android,u7,2,기타
+68,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:19:33,added,high,Android 시스템,app,android,u8,2,기타
+69,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:33,added,high,Android 시스템,app,android,u9,2,기타
+70,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:04:00,added,high,Android System,app,android,u10,2,기타
+71,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:19:12,added,medium,블루투스,app,com.android.bluetooth,u11,2,기타
+72,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:29,added,high,블루투스,app,com.android.bluetooth,u12,2,기타
+73,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:38:07,added,high,블루투스,app,com.android.bluetooth,u15,2,기타
+74,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:51:36,added,high,블루투스,app,com.android.bluetooth,u17,2,기타
+75,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:36:01,added,high,블루투스,app,com.android.bluetooth,u19,2,기타
+76,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:43,added,high,블루투스,app,com.android.bluetooth,u20,2,기타
+77,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:13,added,low,토스,app,viva.republica.toss,u11,2,금융
+78,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:20:00,added,high,토스,app,viva.republica.toss,u12,2,금융
+79,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:08:12,added,medium,토스,app,viva.republica.toss,u13,2,금융
+80,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:55:48,added,high,토스,app,viva.republica.toss,u14,2,금융
+81,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:23,added,high,토스,app,viva.republica.toss,u15,2,금융
+82,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:57:44,added,high,토스,app,viva.republica.toss,u17,2,금융
+83,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:20:42,added,high,토스,app,viva.republica.toss,u18,2,금융
+84,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:25,added,low,토스,app,viva.republica.toss,u20,2,금융
+85,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:50,added,medium,토스,app,viva.republica.toss,u21,2,금융
+86,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:06,added,low,토스,app,viva.republica.toss,u22,2,금융
+87,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:02:34,added,high,토스,app,viva.republica.toss,u24,2,금융
+88,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:01,added,low,토스,app,viva.republica.toss,u25,2,금융
+89,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:49:23,added,high,토스,app,viva.republica.toss,u26,2,금융
+90,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:10:39,added,high,토스,app,viva.republica.toss,u3,2,금융
+91,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:19:28,added,low,토스,app,viva.republica.toss,u6,2,금융
+92,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:27:04,added,medium,토스,app,viva.republica.toss,u7,2,금융
+93,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:21:50,added,high,토스,app,viva.republica.toss,u8,2,금융
+94,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:55,added,high,토스,app,viva.republica.toss,u9,2,금융
+95,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:51,added,high,토스,app,viva.republica.toss,u4,1,금융
+96,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:08:20,added,medium,텔레그램,app,org.telegram.messenger,u13,2,커뮤니케이션
+97,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:28,added,low,텔레그램,app,org.telegram.messenger,u8,2,커뮤니케이션
+98,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:34:01,added,high,클로바노트,app,com.naver.clova.minute,u4,1,생산성
+99,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:09,added,low,클로바노트,app,com.naver.clova.minute,u6,2,생산성
+100,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:18,added,medium,클로바노트,app,com.naver.clova.minute,u8,2,생산성
+101,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:09,added,low,쿠팡플레이,app,com.coupang.mobile.play,u11,2,엔터테인먼트
+102,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:02,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u4,1,식음료
+103,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:09:02,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u11,2,식음료
+104,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:16,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u14,2,식음료
+105,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:01,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u15,2,식음료
+106,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:03:22,added,medium,쿠팡이츠,app,com.coupang.mobile.eats,u16,2,식음료
+107,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:35:56,added,medium,쿠팡이츠,app,com.coupang.mobile.eats,u19,2,식음료
+108,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:23,added,low,쿠팡이츠,app,com.coupang.mobile.eats,u21,2,식음료
+109,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-28 10:44:30,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u22,2,식음료
+110,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:58,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u25,2,식음료
+111,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:22:35,added,high,쿠팡이츠,app,com.coupang.mobile.eats,u7,2,식음료
+112,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:31,added,low,쿠팡이츠,app,com.coupang.mobile.eats,u9,2,식음료
+113,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:00,added,high,쿠팡,app,com.coupang.mobile,u4,1,쇼핑
+114,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:05:38,added,medium,쿠팡,app,com.coupang.mobile,u1,2,쇼핑
+115,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-24 13:24:50,added,high,쿠팡,app,com.coupang.mobile,u10,2,쇼핑
+116,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:54,added,low,쿠팡,app,com.coupang.mobile,u11,2,쇼핑
+117,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:23:40,added,low,쿠팡,app,com.coupang.mobile,u12,2,쇼핑
+118,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:02,added,low,쿠팡,app,com.coupang.mobile,u14,2,쇼핑
+119,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:08,added,high,쿠팡,app,com.coupang.mobile,u15,2,쇼핑
+120,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:03:19,added,medium,쿠팡,app,com.coupang.mobile,u16,2,쇼핑
+121,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:54:12,added,low,쿠팡,app,com.coupang.mobile,u17,2,쇼핑
+122,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:26:23,added,low,쿠팡,app,com.coupang.mobile,u18,2,쇼핑
+123,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:38:13,added,low,쿠팡,app,com.coupang.mobile,u19,2,쇼핑
+124,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:01,added,low,쿠팡,app,com.coupang.mobile,u21,2,쇼핑
+125,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:00,added,low,쿠팡,app,com.coupang.mobile,u26,2,쇼핑
+126,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:00,added,low,쿠팡,app,com.coupang.mobile,u3,2,쇼핑
+127,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:14:35,added,low,쿠팡,app,com.coupang.mobile,u6,2,쇼핑
+128,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:27:28,added,medium,쿠팡,app,com.coupang.mobile,u7,2,쇼핑
+129,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:58,added,low,쿠팡,app,com.coupang.mobile,u8,2,쇼핑
+130,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:16,added,low,쿠팡,app,com.coupang.mobile,u9,2,쇼핑
+131,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 14:00:54,added,low,쿠팡,keyword,,u2,2,
+132,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:05:35,added,high,코레일톡,app,com.korail.talk,u13,2,여행 및 지역정보
+133,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:52,added,high,코레일톡,app,com.korail.talk,u14,2,여행 및 지역정보
+134,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:04,added,low,코데즈컴바인이너웨어,app,com.cafe24.ec.pluscncom0812,u18,2,쇼핑
+135,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:29:14,added,low,커뮤니케이션센터,keyword,,u20,2,
+136,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:38:59,added,low,커뮤니케이션센터,keyword,,u22,2,
+137,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:02:40,added,high,캘린더,app,com.samsung.android.calendar,u1,2,생산성
+138,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:11:09,added,high,캘린더,app,com.samsung.android.calendar,u11,2,생산성
+139,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:21:06,added,high,캘린더,app,com.samsung.android.calendar,u12,2,생산성
+140,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:08,added,high,캘린더,app,com.samsung.android.calendar,u14,2,생산성
+141,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:55:50,added,low,캘린더,app,com.samsung.android.calendar,u17,2,생산성
+142,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:22,added,high,캘린더,app,com.samsung.android.calendar,u18,2,생산성
+143,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:18,added,high,캘린더,app,com.samsung.android.calendar,u20,2,생산성
+144,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:22,added,medium,캘린더,app,com.samsung.android.calendar,u21,2,생산성
+145,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:33:41,added,high,캘린더,app,com.samsung.android.calendar,u22,2,생산성
+146,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:13:42,added,high,캘린더,app,com.samsung.android.calendar,u23,2,생산성
+147,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:57:29,added,high,캘린더,app,com.samsung.android.calendar,u24,2,생산성
+148,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:07,added,low,캘린더,app,com.samsung.android.calendar,u25,2,생산성
+149,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:20,added,medium,캘린더,app,com.samsung.android.calendar,u3,2,생산성
+150,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:10:45,added,high,캘린더,app,com.samsung.android.calendar,u6,2,생산성
+151,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:44,added,low,캘린더,app,com.samsung.android.calendar,u8,2,생산성
+152,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:41:30,added,high,캘린더,app,com.samsung.android.calendar,u9,2,생산성
+153,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:16,added,high,캘린더,app,com.google.android.calendar,u20,2,생산성
+154,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:03:00,added,high,캘린더,app,com.google.android.calendar,u24,2,생산성
+155,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:27:36,added,low,캘린더,app,com.google.android.calendar,u8,2,생산성
+156,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-20 15:05:05,added,high,캘린더,app,com.google.android.calendar,u4,2,생산성
+157,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-20 15:05:07,added,high,캘린더,app,com.samsung.android.calendar,u4,2,생산성
+158,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:00,added,medium,캐치테이블,app,co.kr.catchtable.android.catchtable_app,u18,2,식음료
+159,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:19,added,medium,캐치테이블,app,co.kr.catchtable.android.catchtable_app,u21,2,식음료
+160,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:10:02,added,low,캐치테이블,app,co.kr.catchtable.android.catchtable_app,u24,2,식음료
+161,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:13:06,added,low,캐치테이블,app,co.kr.catchtable.android.catchtable_app,u6,2,식음료
+162,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:02,added,low,캐치테이블,app,co.kr.catchtable.android.catchtable_app,u8,2,식음료
+163,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:10:13,added,low,카카오페이지,app,com.kakao.page,u13,2,엔터테인먼트
+164,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:10:04,added,low,카카오페이지,app,com.kakao.page,u24,2,엔터테인먼트
+165,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-27 19:19:38,added,low,카카오페이지,app,com.kakao.page,u25,2,엔터테인먼트
+166,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:38:18,added,low,카카오페이지,app,com.kakao.page,u9,2,엔터테인먼트
+167,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:13:06,added,medium,카카오페이,app,com.kakaopay.app,u11,2,금융
+168,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:07:53,added,medium,카카오페이,app,com.kakaopay.app,u13,2,금융
+169,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:32,added,high,카카오페이,app,com.kakaopay.app,u15,2,금융
+170,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:56:58,added,low,카카오페이,app,com.kakaopay.app,u17,2,금융
+171,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:57:15,added,low,카카오페이,app,com.kakaopay.app,u2,2,금융
+172,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:07:01,added,medium,카카오페이,app,com.kakaopay.app,u24,2,금융
+173,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:32,added,low,카카오페이,app,com.kakaopay.app,u26,2,금융
+174,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:55,added,medium,카카오페이,app,com.kakaopay.app,u3,2,금융
+175,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:20:44,added,high,카카오페이,app,com.kakaopay.app,u8,2,금융
+176,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:22,added,high,카카오톡,app,com.kakao.talk,u4,1,커뮤니케이션
+177,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:04:50,added,high,카카오톡,app,com.kakao.talk,u1,2,커뮤니케이션
+178,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:13:32,added,high,카카오톡,app,com.kakao.talk,u11,2,커뮤니케이션
+179,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:18:46,added,high,카카오톡,app,com.kakao.talk,u12,2,커뮤니케이션
+180,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:04:20,added,high,카카오톡,app,com.kakao.talk,u13,2,커뮤니케이션
+181,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:48,added,high,카카오톡,app,com.kakao.talk,u14,2,커뮤니케이션
+182,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:51,added,high,카카오톡,app,com.kakao.talk,u15,2,커뮤니케이션
+183,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:02:31,added,high,카카오톡,app,com.kakao.talk,u16,2,커뮤니케이션
+184,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:48:27,added,high,카카오톡,app,com.kakao.talk,u17,2,커뮤니케이션
+185,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:21:20,added,high,카카오톡,app,com.kakao.talk,u18,2,커뮤니케이션
+186,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:34:33,added,high,카카오톡,app,com.kakao.talk,u19,2,커뮤니케이션
+187,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:56:35,added,high,카카오톡,app,com.kakao.talk,u2,2,커뮤니케이션
+188,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:23:19,added,high,카카오톡,app,com.kakao.talk,u20,2,커뮤니케이션
+189,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:05:52,added,high,카카오톡,app,com.kakao.talk,u21,2,커뮤니케이션
+190,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:34:03,added,high,카카오톡,app,com.kakao.talk,u22,2,커뮤니케이션
+191,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:04:33,added,high,카카오톡,app,com.kakao.talk,u24,2,커뮤니케이션
+192,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:33,added,high,카카오톡,app,com.kakao.talk,u25,2,커뮤니케이션
+193,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:49:36,added,high,카카오톡,app,com.kakao.talk,u26,2,커뮤니케이션
+194,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:10:29,added,high,카카오톡,app,com.kakao.talk,u3,2,커뮤니케이션
+195,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:06:53,added,high,카카오톡,app,com.kakao.talk,u5,2,커뮤니케이션
+196,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:08:10,added,medium,카카오톡,app,com.kakao.talk,u6,2,커뮤니케이션
+197,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:22:11,added,high,카카오톡,app,com.kakao.talk,u7,2,커뮤니케이션
+198,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:19:23,added,high,카카오톡,app,com.kakao.talk,u8,2,커뮤니케이션
+199,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:35:44,added,high,카카오톡,app,com.kakao.talk,u9,2,커뮤니케이션
+200,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:05:56,added,medium,카카오뱅크,app,com.kakaobank.channel,u1,2,금융
+201,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:07:50,added,medium,카카오뱅크,app,com.kakaobank.channel,u13,2,금융
+202,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:26,added,high,카카오뱅크,app,com.kakaobank.channel,u15,2,금융
+203,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:58:07,added,high,카카오뱅크,app,com.kakaobank.channel,u17,2,금융
+204,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:22:45,added,medium,카카오뱅크,app,com.kakaobank.channel,u18,2,금융
+205,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:56:27,added,high,카카오뱅크,app,com.kakaobank.channel,u2,2,금융
+206,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:17:31,added,high,카카오뱅크,app,com.kakaobank.channel,u23,2,금융
+207,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:02:29,added,high,카카오뱅크,app,com.kakaobank.channel,u24,2,금융
+208,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:09,added,high,카카오뱅크,app,com.kakaobank.channel,u25,2,금융
+209,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:39,added,low,카카오뱅크,app,com.kakaobank.channel,u26,2,금융
+210,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:59,added,low,카카오뱅크,app,com.kakaobank.channel,u3,2,금융
+211,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:16:34,added,low,카카오뱅크,app,com.kakaobank.channel,u6,2,금융
+212,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:20,added,low,카카오뱅크,app,com.kakaobank.channel,u8,2,금융
+213,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:59,added,high,카카오맵,app,net.daum.android.map,u14,2,여행 및 지역정보
+214,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:33:52,added,high,카카오맵,app,net.daum.android.map,u22,2,여행 및 지역정보
+215,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:12,added,low,카카오맵,app,net.daum.android.map,u24,2,여행 및 지역정보
+216,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:20,added,low,카카오맵,app,net.daum.android.map,u25,2,여행 및 지역정보
+217,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:18,added,low,카카오맵,app,net.daum.android.map,u8,2,여행 및 지역정보
+218,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-21 09:56:03,added,high,카카오맵,app,net.daum.android.map,u4,2,여행 및 지역정보
+219,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:12:45,added,medium,카카오 T,app,com.kakao.taxi,u11,2,지도/네비게이션
+220,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:16,added,low,카카오 T,app,com.kakao.taxi,u12,2,지도/네비게이션
+221,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:10:31,added,high,카카오 T,app,com.kakao.taxi,u13,2,지도/네비게이션
+222,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:57:04,added,high,카카오 T,app,com.kakao.taxi,u2,2,지도/네비게이션
+223,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:17,added,medium,카카오 T,app,com.kakao.taxi,u21,2,지도/네비게이션
+224,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-28 10:44:24,added,low,카카오 T,app,com.kakao.taxi,u22,2,지도/네비게이션
+225,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:19:10,added,high,카카오 T,app,com.kakao.taxi,u23,2,지도/네비게이션
+226,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:24,added,low,카카오 T,app,com.kakao.taxi,u25,2,지도/네비게이션
+227,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:58,added,low,카카오 T,app,com.kakao.taxi,u26,2,지도/네비게이션
+228,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:08:29,added,high,카카오 T,app,com.kakao.taxi,u5,2,지도/네비게이션
+229,83dc8619-af39-4f15-b438-969f072ce778,2024-12-25 13:45:40,added,high,카카오 T,app,com.kakao.taxi,u6,2,지도/네비게이션
+230,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:20:29,added,high,카카오 T,app,com.kakao.taxi,u8,2,지도/네비게이션
+231,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:12:16,added,high,블루투스,app,com.android.bluetooth,u23,2,기타
+232,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:11:10,added,high,블루투스,app,com.android.bluetooth,u3,2,기타
+233,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:04:51,added,high,블루투스,app,com.android.bluetooth,u6,2,기타
+234,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:36,added,high,블루투스,app,com.android.bluetooth,u9,2,기타
+235,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:59:35,added,high,Bluetooth,app,com.android.bluetooth,u10,2,기타
+236,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:18,added,high,NFC,app,com.android.nfc,u16,2,기타
+237,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-27 09:32:06,added,medium,NFC,app,com.android.nfc,u21,2,기타
+238,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:10,added,medium,NFC,app,com.android.nfc,u26,2,기타
+239,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:30,added,high,NFC,app,com.android.nfc,u9,2,기타
+240,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:06:52,added,low,다운로드 관리자,app,com.android.providers.downloads,u1,2,기타
+241,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-27 13:31:00,added,medium,다운로드 관리자,app,com.android.providers.downloads,u11,2,기타
+242,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:59:42,added,medium,다운로드 관리자,app,com.android.providers.downloads,u14,2,기타
+243,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:23,added,low,다운로드 관리자,app,com.android.providers.downloads,u16,2,기타
+244,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:52:20,added,high,다운로드 관리자,app,com.android.providers.downloads,u17,2,기타
+245,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:57:59,added,high,다운로드 관리자,app,com.android.providers.downloads,u24,2,기타
+246,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:10,added,low,다운로드 관리자,app,com.android.providers.downloads,u25,2,기타
+247,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:11:18,added,high,다운로드 관리자,app,com.android.providers.downloads,u3,2,기타
+248,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:14:00,added,low,다운로드 관리자,app,com.android.providers.downloads,u6,2,기타
+249,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:24,added,low,다운로드 관리자,app,com.android.providers.downloads,u8,2,기타
+250,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:08:18,added,medium,Download Manager,app,com.android.providers.downloads,u10,2,기타
+251,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:58,added,high,시스템 UI,app,com.android.systemui,u4,1,기타
+252,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:10:28,added,high,시스템 UI,app,com.android.systemui,u11,2,기타
+253,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:07:59,added,medium,치지직,app,com.navercorp.game.android.community,u13,2,엔터테인먼트
+254,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 19:56:52,added,high,치지직,app,com.navercorp.game.android.community,u19,2,엔터테인먼트
+255,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:59,added,low,치지직,app,com.navercorp.game.android.community,u26,2,엔터테인먼트
+256,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:03:15,added,high,출금,keyword,,u14,2,
+257,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:46,added,low,챌린저스,app,kr.co.whitecube.chlngers,u8,2,건강/운동
+258,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:51,added,medium,지쿠,app,io.gbike.gcooter,u12,2,여행 및 지역정보
+260,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:07,added,low,지니뮤직,app,com.ktmusic.geniemusic,u24,2,음악/오디오
+261,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:20:53,added,high,지니뮤직,app,com.ktmusic.geniemusic,u8,2,음악/오디오
+262,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-31 21:53:51,added,low,지니 TV 모바일,app,com.kt.gtv,u24,2,엔터테인먼트
+263,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:10,added,low,지그재그,app,com.croquis.zigzag,u18,2,쇼핑
+264,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:10,added,low,지그재그,app,com.croquis.zigzag,u5,2,쇼핑
+265,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:27:06,added,low,지그재그,app,com.croquis.zigzag,u8,2,쇼핑
+266,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-22 19:09:23,added,low,점신,app,handasoft.mobile.divination,u10,2,라이프스타일
+267,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:24:10,added,medium,점신,app,handasoft.mobile.divination,u18,2,라이프스타일
+268,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:15,added,high,시스템 UI,app,com.android.systemui,u12,2,기타
+269,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:03:45,added,high,시스템 UI,app,com.android.systemui,u13,2,기타
+270,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:55:56,added,high,시스템 UI,app,com.android.systemui,u14,2,기타
+271,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:50,added,high,시스템 UI,app,com.android.systemui,u15,2,기타
+272,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:51:15,added,high,시스템 UI,app,com.android.systemui,u17,2,기타
+273,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:28,added,high,시스템 UI,app,com.android.systemui,u18,2,기타
+274,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:36:10,added,high,시스템 UI,app,com.android.systemui,u19,2,기타
+275,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:40,added,high,시스템 UI,app,com.android.systemui,u2,2,기타
+276,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:51,added,high,시스템 UI,app,com.android.systemui,u20,2,기타
+277,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:58,added,high,시스템 UI,app,com.android.systemui,u21,2,기타
+278,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:34:36,added,high,시스템 UI,app,com.android.systemui,u22,2,기타
+279,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:17:10,added,high,시스템 UI,app,com.android.systemui,u23,2,기타
+280,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:04:38,added,high,시스템 UI,app,com.android.systemui,u24,2,기타
+281,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:37:13,added,high,시스템 UI,app,com.android.systemui,u25,2,기타
+282,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:10,added,high,시스템 UI,app,com.android.systemui,u26,2,기타
+283,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:10:57,added,high,시스템 UI,app,com.android.systemui,u3,2,기타
+284,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:05:30,added,high,시스템 UI,app,com.android.systemui,u5,2,기타
+285,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:12:48,added,high,시스템 UI,app,com.android.systemui,u6,2,기타
+286,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:19:31,added,high,시스템 UI,app,com.android.systemui,u8,2,기타
+287,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:32,added,high,시스템 UI,app,com.android.systemui,u9,2,기타
+288,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:10:46,added,high,시스템 UI,app,com.android.systemui,u1,2,기타
+289,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:59:19,added,high,System UI,app,com.android.systemui,u10,2,기타
+290,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:07:12,added,low,Google Play 스토어,app,com.android.vending,u1,2,도구
+291,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:53,added,medium,Google Play 스토어,app,com.android.vending,u4,1,도구
+292,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:13:41,added,medium,Google Play 스토어,app,com.android.vending,u11,2,도구
+293,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:23:33,added,low,Google Play 스토어,app,com.android.vending,u12,2,도구
+294,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:37,added,low,Google Play 스토어,app,com.android.vending,u15,2,도구
+295,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:25,added,low,Google Play 스토어,app,com.android.vending,u16,2,도구
+296,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:53:03,added,low,Google Play 스토어,app,com.android.vending,u17,2,도구
+297,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:26:02,added,low,Google Play 스토어,app,com.android.vending,u18,2,도구
+298,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:35,added,low,Google Play 스토어,app,com.android.vending,u19,2,도구
+299,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-20 13:51:52,added,high,Google Play 스토어,app,com.android.vending,u2,2,도구
+300,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:35,added,low,Google Play 스토어,app,com.android.vending,u20,2,도구
+301,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:38,added,low,Google Play 스토어,app,com.android.vending,u21,2,도구
+302,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:00:56,added,low,자소설닷컴,app,com.anchoreer.jasoseol,u14,2,비즈니스
+303,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:07:34,added,low,일상카페,app,com.zlgoon.dailycafe,u21,2,소셜
+304,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:45,added,low,일상카페,app,com.zlgoon.dailycafe,u24,2,소셜
+305,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:10:00,added,low,인포즈,app,com.carpum.inpose,u1,2,소셜
+306,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:29,added,low,인터파크 티켓,app,com.interpark.app.ticket,u24,2,엔터테인먼트
+308,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:41,added,low,Google Play 스토어,app,com.android.vending,u22,2,도구
+309,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:14:22,added,low,Google Play 스토어,app,com.android.vending,u23,2,도구
+310,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:11,added,low,Google Play 스토어,app,com.android.vending,u24,2,도구
+311,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:17,added,low,Google Play 스토어,app,com.android.vending,u25,2,도구
+312,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:57,added,low,Google Play 스토어,app,com.android.vending,u26,2,도구
+313,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:16:57,added,low,Google Play 스토어,app,com.android.vending,u3,2,도구
+314,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:08:23,added,high,Google Play 스토어,app,com.android.vending,u5,2,도구
+315,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:14:22,added,low,Google Play 스토어,app,com.android.vending,u6,2,도구
+316,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:37,added,low,Google Play 스토어,app,com.android.vending,u7,2,도구
+317,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:30,added,low,Google Play 스토어,app,com.android.vending,u8,2,도구
+318,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:00,added,low,Google Play 스토어,app,com.android.vending,u9,2,도구
+319,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:06:11,added,high,Google Play Store,app,com.android.vending,u10,2,도구
+320,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:22:56,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u12,2,기타
+321,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:56,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u15,2,기타
+322,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:01:54,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u16,2,기타
+323,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:52:24,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u17,2,기타
+324,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:39:17,added,medium,음성 녹음,app,com.sec.android.app.voicenote,u15,2,도구
+325,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:50,added,high,음성 녹음,app,com.sec.android.app.voicenote,u2,2,도구
+326,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-26 09:09:04,added,high,음성 녹음,app,com.sec.android.app.voicenote,u20,2,도구
+327,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:58:10,added,high,음성 녹음,app,com.sec.android.app.voicenote,u24,2,도구
+328,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:37,added,low,음성 녹음,app,com.sec.android.app.voicenote,u5,2,도구
+329,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:21:30,added,high,음성 녹음,app,com.sec.android.app.voicenote,u8,2,도구
+330,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:45:00,added,high,음성 녹음,app,com.sec.android.app.voicenote,u9,2,도구
+332,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:24:53,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u18,2,기타
+333,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:36:07,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u19,2,기타
+334,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:56,added,medium,재난문자,app,com.google.android.cellbroadcastreceiver,u21,2,기타
+335,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:34:39,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u22,2,기타
+336,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:12:10,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u23,2,기타
+337,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:41:02,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u25,2,기타
+338,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:50:55,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u26,2,기타
+339,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:11:56,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u3,2,기타
+340,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:05:51,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u5,2,기타
+341,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:15:15,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u6,2,기타
+342,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:22:55,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u7,2,기타
+343,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:20:05,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u8,2,기타
+344,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:46,added,high,재난문자,app,com.google.android.cellbroadcastreceiver,u9,2,기타
+345,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:58,added,high,Wireless emergency alerts,app,com.google.android.cellbroadcastreceiver,u10,2,기타
+346,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:04:09,added,high,네트워크 관리자,app,com.google.android.networkstack,u1,2,기타
+347,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-31 21:53:30,added,medium,원룸만들기,app,com.oneroom.byapps,u24,2,쇼핑
+348,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:01,added,low,우리동네GS,app,com.gsr.gs25,u4,1,라이프스타일
+349,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:01:54,added,low,우리동네GS,app,com.gsr.gs25,u10,2,라이프스타일
+350,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:03:27,added,medium,우리동네GS,app,com.gsr.gs25,u16,2,라이프스타일
+351,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:21:53,added,medium,우리동네GS,app,com.gsr.gs25,u18,2,라이프스타일
+352,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:57:03,added,high,우리동네GS,app,com.gsr.gs25,u24,2,라이프스타일
+353,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:05,added,low,우리동네GS,app,com.gsr.gs25,u25,2,라이프스타일
+354,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:32,added,medium,우리동네GS,app,com.gsr.gs25,u3,2,라이프스타일
+355,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:03,added,low,우리동네GS,app,com.gsr.gs25,u8,2,라이프스타일
+356,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:37:47,added,low,우리동네GS,app,com.gsr.gs25,u9,2,라이프스타일
+357,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:06:11,added,medium,우리WON뱅킹,app,com.wooribank.smart.npib,u24,2,금융
+358,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:10,added,low,왓챠,app,com.frograms.wplay,u11,2,엔터테인먼트
+359,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:58,added,low,와디즈,app,com.markmount.wadiz,u8,2,라이프스타일
+360,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2025-01-01 06:31:42,added,low,올리브영,app,com.oliveyoung,u25,2,쇼핑
+361,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:33,added,low,올리브영,app,com.oliveyoung,u6,2,쇼핑
+362,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:53,added,low,올리브영,app,com.oliveyoung,u8,2,쇼핑
+363,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:40:10,added,low,올리브영,app,com.oliveyoung,u9,2,쇼핑
+364,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:34:50,added,low,오늘의집,app,net.bucketplace,u19,2,쇼핑
+365,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:19,added,low,오늘의집,app,net.bucketplace,u25,2,쇼핑
+366,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:26,added,low,예스24 도서,app,com.yes24.commerce,u8,2,도서/참고자료
+367,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:46,added,low,영웅문S#,app,com.kiwoom.heromts,u15,2,금융
+368,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:20:13,added,high,네트워크 관리자,app,com.google.android.networkstack,u12,2,기타
+369,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:24,added,high,네트워크 관리자,app,com.google.android.networkstack,u14,2,기타
+370,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:59,added,medium,네트워크 관리자,app,com.google.android.networkstack,u21,2,기타
+371,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:12:37,added,high,네트워크 관리자,app,com.google.android.networkstack,u23,2,기타
+372,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:37,added,low,에이블리,app,com.banhala.android,u18,2,쇼핑
+373,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:54,added,low,에이블리,app,com.banhala.android,u25,2,쇼핑
+374,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:41,added,low,에이블리,app,com.banhala.android,u8,2,쇼핑
+375,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:35,added,high,에이닷 전화,app,com.skt.prod.dialer,u1,2,커뮤니케이션
+376,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:20:42,added,high,에이닷 전화,app,com.skt.prod.dialer,u12,2,커뮤니케이션
+377,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:07:00,added,high,에이닷 전화,app,com.skt.prod.dialer,u13,2,커뮤니케이션
+378,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:29,added,high,에이닷 전화,app,com.skt.prod.dialer,u16,2,커뮤니케이션
+379,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:41,added,high,에이닷 전화,app,com.skt.prod.dialer,u20,2,커뮤니케이션
+380,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:41,added,low,에이닷 전화,app,com.skt.prod.dialer,u3,2,커뮤니케이션
+381,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:41,added,high,에이닷 전화,app,com.skt.prod.dialer,u9,2,커뮤니케이션
+382,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:05,added,low,에이닷,app,com.skt.nugu.apollo,u12,2,생산성
+383,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:12:06,added,low,에이닷,app,com.skt.nugu.apollo,u13,2,생산성
+384,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:02,added,low,에이닷,app,com.skt.nugu.apollo,u16,2,생산성
+385,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:47,added,low,에이닷,app,com.skt.nugu.apollo,u9,2,생산성
+386,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:09:05,added,low,에어비앤비,app,com.airbnb.android,u1,2,여행 및 지역정보
+387,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:19,added,low,에브리타임,app,com.everytime.v2,u1,2,소셜
+388,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:30,added,medium,에브리타임,app,com.everytime.v2,u4,1,소셜
+389,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:09:17,added,high,에브리타임,app,com.everytime.v2,u11,2,소셜
+390,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:00,added,low,에브리타임,app,com.everytime.v2,u12,2,소셜
+391,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:04,added,low,에브리타임,app,com.everytime.v2,u14,2,소셜
+392,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:48,added,low,에브리타임,app,com.everytime.v2,u15,2,소셜
+393,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:27,added,low,에브리타임,app,com.everytime.v2,u16,2,소셜
+394,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:52:53,added,low,에브리타임,app,com.everytime.v2,u17,2,소셜
+395,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:22:57,added,medium,에브리타임,app,com.everytime.v2,u18,2,소셜
+396,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:38:16,added,low,에브리타임,app,com.everytime.v2,u19,2,소셜
+397,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:04,added,low,에브리타임,app,com.everytime.v2,u22,2,소셜
+398,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:17:57,added,low,에브리타임,app,com.everytime.v2,u23,2,소셜
+399,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:23,added,low,에브리타임,app,com.everytime.v2,u24,2,소셜
+400,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:52,added,low,에브리타임,app,com.everytime.v2,u25,2,소셜
+401,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:03,added,low,에브리타임,app,com.everytime.v2,u3,2,소셜
+402,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:14:42,added,low,에브리타임,app,com.everytime.v2,u6,2,소셜
+403,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:48,added,low,에브리타임,app,com.everytime.v2,u7,2,소셜
+404,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:27:15,added,low,에브리타임,app,com.everytime.v2,u8,2,소셜
+405,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:36,added,low,에브리타임,app,com.everytime.v2,u9,2,소셜
+406,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-27 13:30:55,added,low,업비트,app,com.dunamu.exchange,u11,2,금융
+407,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-27 21:26:08,added,high,업비트,app,com.dunamu.exchange,u26,2,금융
+408,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 14:01:06,added,low,업비트,keyword,,u2,2,
+409,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:39,added,low,야놀자,app,com.cultsotry.yanolja.nativeapp,u10,2,여행 및 지역정보
+410,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:29,added,high,네트워크 관리자,app,com.google.android.networkstack,u3,2,기타
+411,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-21 22:23:56,added,high,네트워크 관리자,app,com.google.android.networkstack,u5,2,기타
+412,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:57:47,added,high,알약M,app,com.estsoft.alyac,u24,2,도구
+413,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:09,added,high,알송,app,com.estsoft.alsong,u3,2,음악/오디오
+414,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:11,added,low,알바천국,app,kr.co.alba.webappalba.m,u11,2,비즈니스
+415,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:53:48,added,low,알바천국,app,kr.co.alba.webappalba.m,u17,2,비즈니스
+416,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:57,added,low,알바천국,app,kr.co.alba.webappalba.m,u25,2,비즈니스
+417,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:31,added,low,알바천국,app,kr.co.alba.webappalba.m,u8,2,비즈니스
+418,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:38,added,low,알바천국,app,kr.co.alba.webappalba.m,u9,2,비즈니스
+419,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:53,added,low,알바몬,app,com.albamon.app,u11,2,비즈니스
+420,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:14,added,high,알람몬,app,com.malangstudio.alarmmon,u21,2,라이프스타일
+424,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:59,added,low,알라딘,app,kr.co.aladin.third_shop,u26,2,도서/참고자료
+425,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:28,added,low,아이디어스,app,kr.backpackr.me.idus,u8,2,쇼핑
+426,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:10,added,low,쏘카일레클,app,org.nine2one.elecle,u12,2,지도/네비게이션
+427,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:20:15,added,low,쏘카일레클,app,org.nine2one.elecle,u23,2,지도/네비게이션
+428,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:41,added,low,쏘카,app,socar.Socar,u18,2,여행 및 지역정보
+429,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:10:27,added,low,쏘카,app,socar.Socar,u24,2,여행 및 지역정보
+431,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:51,added,medium,신한카드,app,com.shcard.smartpay,u21,2,금융
+432,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:04,added,low,신한카드,app,com.shcard.smartpay,u8,2,금융
+433,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:31,added,low,신한카드,app,com.shcard.smartpay,u1,2,금융
+434,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:02,added,high,신한은행,app,com.shinhan.sbanking,u1,2,금융
+435,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:06:48,added,medium,신한은행,app,com.shinhan.sbanking,u21,2,금융
+436,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:33:47,added,high,신한은행,app,com.shinhan.sbanking,u22,2,금융
+437,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:06:14,added,medium,신한은행,app,com.shinhan.sbanking,u24,2,금융
+438,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:18:21,added,low,신한은행,app,com.shinhan.sbanking,u6,2,금융
+450,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:07:19,added,low,권한 관리자,app,com.google.android.permissioncontroller,u1,2,기타
+451,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:15,added,high,권한 관리자,app,com.google.android.permissioncontroller,u15,2,기타
+452,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-28 10:58:47,added,high,권한 관리자,app,com.google.android.permissioncontroller,u18,2,기타
+453,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:44,added,low,권한 관리자,app,com.google.android.permissioncontroller,u22,2,기타
+454,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:30,added,low,권한 관리자,app,com.google.android.permissioncontroller,u25,2,기타
+455,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:03,added,medium,권한 관리자,app,com.google.android.permissioncontroller,u7,2,기타
+456,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:42,added,low,뮤직다운,app,com.hoo365.haa375,u3,2,기타
+460,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:33,added,low,원스토어,app,com.kt.olleh.storefront,u15,2,도구
+461,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:08,added,low,원스토어,app,com.kt.olleh.storefront,u24,2,도구
+462,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:38:30,added,low,시리즈,app,com.nhn.android.nbooks,u19,2,도서/참고자료
+463,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-28 10:24:13,added,low,시그널링,app,com.vespexx.signal,u24,2,라이프스타일
+464,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:59,added,high,시계,app,com.sec.android.app.clockpackage,u1,2,도구
+465,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:11:55,added,high,시계,app,com.sec.android.app.clockpackage,u11,2,도구
+466,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:20:51,added,high,시계,app,com.sec.android.app.clockpackage,u12,2,도구
+467,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:06:45,added,high,시계,app,com.sec.android.app.clockpackage,u13,2,도구
+468,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:58:26,added,high,시계,app,com.sec.android.app.clockpackage,u14,2,도구
+469,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:54,added,high,시계,app,com.sec.android.app.clockpackage,u15,2,도구
+470,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:08,added,high,시계,app,com.sec.android.app.clockpackage,u16,2,도구
+471,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:50:58,added,high,시계,app,com.sec.android.app.clockpackage,u17,2,도구
+472,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:20:19,added,high,시계,app,com.sec.android.app.clockpackage,u18,2,도구
+473,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:37,added,high,시계,app,com.sec.android.app.clockpackage,u2,2,도구
+474,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:02,added,high,시계,app,com.sec.android.app.clockpackage,u20,2,도구
+475,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:05:48,added,high,시계,app,com.sec.android.app.clockpackage,u21,2,도구
+476,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:15:02,added,high,시계,app,com.sec.android.app.clockpackage,u23,2,도구
+477,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:02:20,added,high,시계,app,com.sec.android.app.clockpackage,u24,2,도구
+478,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:02,added,high,시계,app,com.sec.android.app.clockpackage,u25,2,도구
+479,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:49:14,added,high,시계,app,com.sec.android.app.clockpackage,u26,2,도구
+480,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:13:44,added,high,시계,app,com.sec.android.app.clockpackage,u3,2,도구
+481,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:21,added,high,시계,app,com.sec.android.app.clockpackage,u5,2,도구
+482,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:06:34,added,high,시계,app,com.sec.android.app.clockpackage,u6,2,도구
+483,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:24:09,added,high,시계,app,com.sec.android.app.clockpackage,u7,2,도구
+484,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:25:35,added,high,시계,app,com.sec.android.app.clockpackage,u8,2,도구
+485,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:15,added,high,시계,app,com.sec.android.app.clockpackage,u9,2,도구
+486,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:33:37,added,high,시계,app,com.sec.android.app.clockpackage,u4,1,도구
+487,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:02:01,added,low,스픽,app,com.selabs.speak,u14,2,교육
+488,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:04,added,low,원스토어,app,com.kt.olleh.storefront,u6,2,도구
+489,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:56,added,low,원스토어,app,com.kt.olleh.storefront,u7,2,도구
+490,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:53:07,added,low,원스토어,app,com.lguplus.appstore,u17,2,도구
+491,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:37:06,added,low,스토리,keyword,,u4,1,
+492,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:36,added,medium,스타벅스,app,com.starbucks.co,u18,2,식음료
+493,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:10:14,added,medium,스타벅스,app,com.starbucks.co,u24,2,식음료
+494,83dc8619-af39-4f15-b438-969f072ce778,2024-12-25 13:44:38,added,high,스타벅스,app,com.starbucks.co,u6,2,식음료
+495,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:09,added,medium,스타벅스,app,com.starbucks.co,u8,2,식음료
+496,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:12,added,medium,솔드아웃,app,com.musinsa.soldout,u24,2,쇼핑
+497,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:15:42,added,low,원스토어,app,com.lguplus.appstore,u23,2,도구
+498,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:22,added,low,원스토어,app,com.lguplus.appstore,u25,2,도구
+499,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:24,added,low,삼성 계정,app,com.osp.app.signin,u12,2,기본 앱
+500,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:22:22,added,medium,삼성 계정,app,com.osp.app.signin,u18,2,기본 앱
+501,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:43,added,high,삼성 계정,app,com.osp.app.signin,u2,2,기본 앱
+502,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:36,added,low,삼성 계정,app,com.osp.app.signin,u22,2,기본 앱
+503,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:14:50,added,high,삼성 계정,app,com.osp.app.signin,u23,2,기본 앱
+504,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:21,added,low,삼성 계정,app,com.osp.app.signin,u5,2,기본 앱
+505,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:29:13,added,low,삼성 계정,app,com.osp.app.signin,u7,2,기본 앱
+506,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:40:15,added,high,삼성 계정,app,com.osp.app.signin,u9,2,기본 앱
+509,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:53,added,high,리마인더,app,com.samsung.android.app.reminder,u1,2,생산성
+510,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:53,added,high,리마인더,app,com.samsung.android.app.reminder,u20,2,생산성
+511,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:23:17,added,high,모드 및 루틴,app,com.samsung.android.app.routines,u12,2,생산성
+512,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:02:47,added,high,샵솔,app,com.wesop.appshopsol,u1,2,생산성
+513,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:09,added,high,삼성카드,app,kr.co.samsungcard.mpocket,u9,2,금융
+514,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:20,added,low,삼성닷컴,app,com.samsung.sec.android.prd,u24,2,쇼핑
+515,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:33,added,low,삼성닷컴,app,com.samsung.sec.android.prd,u26,2,쇼핑
+516,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:47,added,high,삼성 헬스,app,com.sec.android.app.shealth,u18,2,건강/운동
+517,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:21,added,high,삼성 헬스,app,com.sec.android.app.shealth,u20,2,건강/운동
+518,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-28 10:44:22,added,low,삼성 헬스,app,com.sec.android.app.shealth,u22,2,건강/운동
+519,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:19:25,added,low,삼성 헬스,app,com.sec.android.app.shealth,u23,2,건강/운동
+520,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-27 19:04:32,added,low,삼성 헬스,app,com.sec.android.app.shealth,u25,2,건강/운동
+521,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:55,added,low,삼성 헬스,app,com.sec.android.app.shealth,u26,2,건강/운동
+522,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:33,added,low,삼성 헬스,app,com.sec.android.app.shealth,u8,2,건강/운동
+523,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:14,added,medium,삼성 헬스,app,com.sec.android.app.shealth,u4,1,건강/운동
+524,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:38:20,added,low,모드 및 루틴,app,com.samsung.android.app.routines,u19,2,생산성
+525,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:15:26,added,high,모드 및 루틴,app,com.samsung.android.app.routines,u23,2,생산성
+526,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:03:15,added,high,모드 및 루틴,app,com.samsung.android.app.routines,u24,2,생산성
+527,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:09,added,high,모드 및 루틴,app,com.samsung.android.app.routines,u25,2,생산성
+528,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:08,added,low,모드 및 루틴,app,com.samsung.android.app.routines,u8,2,생산성
+529,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:21:15,added,high,Quick Share,app,com.samsung.android.app.sharelive,u12,2,기본 앱
+530,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:50,added,high,Quick Share,app,com.samsung.android.app.sharelive,u18,2,기본 앱
+531,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:14,added,medium,Quick Share,app,com.samsung.android.app.sharelive,u8,2,기본 앱
+532,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-22 11:47:43,added,high,Quick Share,app,com.samsung.android.app.sharelive,u4,2,기본 앱
+533,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:11:28,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u11,2,기본 앱
+534,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:21:01,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u12,2,기본 앱
+535,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:06:24,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u13,2,기본 앱
+536,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:29,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u14,2,기본 앱
+537,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:38,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u15,2,기본 앱
+538,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:06:01,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u16,2,기본 앱
+539,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:57:19,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u17,2,기본 앱
+540,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:01,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u18,2,기본 앱
+541,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:46,added,low,삼성 캡처,app,com.samsung.android.app.smartcapture,u19,2,기본 앱
+542,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:44,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u2,2,기본 앱
+543,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:00,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u20,2,기본 앱
+544,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:41,added,low,삼성 캡처,app,com.samsung.android.app.smartcapture,u21,2,기본 앱
+545,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:57,added,low,삼성 캡처,app,com.samsung.android.app.smartcapture,u22,2,기본 앱
+546,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:02:09,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u24,2,기본 앱
+547,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:35,added,low,삼성 캡처,app,com.samsung.android.app.smartcapture,u25,2,기본 앱
+548,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:25,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u26,2,기본 앱
+549,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:19,added,medium,삼성 캡처,app,com.samsung.android.app.smartcapture,u3,2,기본 앱
+550,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:44,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u5,2,기본 앱
+551,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:42,added,low,삼성 캡처,app,com.samsung.android.app.smartcapture,u6,2,기본 앱
+552,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:29:40,added,medium,삼성 캡처,app,com.samsung.android.app.smartcapture,u7,2,기본 앱
+553,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:27,added,medium,삼성 캡처,app,com.samsung.android.app.smartcapture,u8,2,기본 앱
+554,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:52,added,high,삼성 캡처,app,com.samsung.android.app.smartcapture,u9,2,기본 앱
+555,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:07:54,added,low,삼성 캡처,app,com.samsung.android.app.smartcapture,u1,2,기본 앱
+556,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:19,added,medium,Samsung capture,app,com.samsung.android.app.smartcapture,u10,2,기본 앱
+559,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:08:41,added,low,사람인,app,kr.co.saramin.brandapp,u10,2,비즈니스
+560,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:29:47,added,low,팁,app,com.samsung.android.app.tips,u7,2,기본 앱
+561,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:10:50,added,low,앱 업데이트,app,com.samsung.android.app.updatecenter,u13,2,기타
+562,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:21,added,medium,앱 업데이트,app,com.samsung.android.app.updatecenter,u7,2,기타
+569,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:05:17,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u1,2,기본 앱
+570,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:50,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u11,2,기본 앱
+571,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:30,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u12,2,기본 앱
+572,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:52,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u14,2,기본 앱
+573,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:23:44,added,low,브런치스토리,app,com.daumkakao.android.brunchapp,u12,2,소셜
+574,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:41,added,medium,브런치스토리,app,com.daumkakao.android.brunchapp,u18,2,소셜
+575,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:43,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u15,2,기본 앱
+576,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:30:18,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u18,2,기본 앱
+577,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:40:36,added,low,보맵,app,com.rv2.bomapp,u9,2,금융
+578,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:10:03,added,high,번핏,app,com.bunnit.haja.android,u23,2,건강/운동
+579,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:14:10,added,high,번개장터,app,kr.co.quicket,u3,2,쇼핑
+580,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:41,added,low,번개장터,app,kr.co.quicket,u8,2,쇼핑
+581,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:10:24,added,low,번개장터,app,kr.co.quicket,u1,2,쇼핑
+582,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:20:01,added,low,버거킹,app,kr.co.burgerkinghybrid,u3,2,식음료
+583,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:48,added,low,버거킹,app,kr.co.burgerkinghybrid,u9,2,식음료
+584,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:04:24,added,high,배달의민족,app,com.sampleapp,u1,2,식음료
+585,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:04:31,added,high,배달의민족,app,com.sampleapp,u10,2,식음료
+586,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:06:20,added,high,배달의민족,app,com.sampleapp,u13,2,식음료
+587,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:55:02,added,low,배달의민족,app,com.sampleapp,u17,2,식음료
+588,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:17,added,medium,배달의민족,app,com.sampleapp,u18,2,식음료
+589,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:11,added,low,배달의민족,app,com.sampleapp,u21,2,식음료
+590,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:03:09,added,high,배달의민족,app,com.sampleapp,u24,2,식음료
+591,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:15:22,added,medium,배달의민족,app,com.sampleapp,u3,2,식음료
+592,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:00,added,high,배달의민족,app,com.sampleapp,u5,2,식음료
+593,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:09:38,added,medium,배달의민족,app,com.sampleapp,u6,2,식음료
+594,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:01,added,medium,배달의민족,app,com.sampleapp,u8,2,식음료
+595,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:21,added,high,배달의민족,app,com.sampleapp,u9,2,식음료
+596,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 14:00:56,added,low,배달의 민족,keyword,,u2,2,
+597,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:23:10,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u20,2,기본 앱
+598,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:22,added,high,발로소득,app,io.balso,u9,2,건강/운동
+599,83dc8619-af39-4f15-b438-969f072ce778,2024-12-22 17:37:17,added,low,바디코디,app,com.bodycodi.bpay,u6,2,건강/운동
+601,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:50,added,low,밀리의서재,app,kr.co.millie.millieshelf,u15,2,도서/참고자료
+602,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:15,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u22,2,기본 앱
+603,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:05:22,added,low,무신사,app,com.musinsa.store,u10,2,쇼핑
+604,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:36,added,low,무신사,app,com.musinsa.store,u15,2,쇼핑
+605,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:25:56,added,low,무신사,app,com.musinsa.store,u18,2,쇼핑
+606,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:14,added,medium,무신사,app,com.musinsa.store,u24,2,쇼핑
+607,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:34,added,low,무신사,app,com.musinsa.store,u3,2,쇼핑
+608,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:09,added,low,무신사,app,com.musinsa.store,u8,2,쇼핑
+609,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:19,added,low,"모바일
+티머니",app,com.lgt.tmoney,u12,2,지도/네비게이션
+610,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:59,added,high,"모바일
+티머니",app,com.lgt.tmoney,u16,2,지도/네비게이션
+611,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:17,added,low,"모바일
+티머니",app,com.lgt.tmoney,u24,2,지도/네비게이션
+612,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:39,added,low,"모바일
+티머니",app,com.lgt.tmoney,u8,2,지도/네비게이션
+613,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:14:19,added,low,모바일 레전드: Bang Bang,app,com.mobile.legends,u11,2,게임
+614,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:19:27,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u23,2,기본 앱
+615,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:03:54,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u24,2,기본 앱
+616,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:17,added,low,음성 호출,app,com.samsung.android.bixby.wakeup,u25,2,기본 앱
+617,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:38,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u5,2,기본 앱
+618,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:26:52,added,medium,음성 호출,app,com.samsung.android.bixby.wakeup,u7,2,기본 앱
+619,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:35,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u8,2,기본 앱
+620,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 14:01:04,added,low,모두의 액상,keyword,,u2,2,
+621,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-22 19:09:14,added,high,메타클럽,app,com.fingerverse.metapoint,u10,2,라이프스타일
+622,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:09:44,added,high,메타클럽,app,com.fingerverse.metapoint,u11,2,라이프스타일
+623,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:15:08,added,low,메타클럽,app,com.fingerverse.metapoint,u6,2,라이프스타일
+624,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:29,added,low,메이플핸즈+,app,com.nexon.handsplus,u9,2,엔터테인먼트
+625,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:53,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u9,2,기본 앱
+626,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:34:37,added,high,음성 호출,app,com.samsung.android.bixby.wakeup,u4,1,기본 앱
+627,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:10:20,added,high,Voice wake-up,app,com.samsung.android.bixby.wakeup,u10,2,기본 앱
+628,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:10:20,added,high,전화,app,com.samsung.android.dialer,u11,2,커뮤니케이션
+629,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:26,added,high,전화,app,com.samsung.android.dialer,u14,2,커뮤니케이션
+630,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:45,added,high,전화,app,com.samsung.android.dialer,u15,2,커뮤니케이션
+631,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:51:03,added,high,전화,app,com.samsung.android.dialer,u17,2,커뮤니케이션
+632,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:20:50,added,high,전화,app,com.samsung.android.dialer,u18,2,커뮤니케이션
+633,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:34:25,added,high,전화,app,com.samsung.android.dialer,u19,2,커뮤니케이션
+634,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:45,added,high,전화,app,com.samsung.android.dialer,u2,2,커뮤니케이션
+635,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:11:03,added,high,전화,app,com.samsung.android.dialer,u21,2,커뮤니케이션
+636,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:12:01,added,high,전화,app,com.samsung.android.dialer,u23,2,커뮤니케이션
+637,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:04:04,added,high,전화,app,com.samsung.android.dialer,u24,2,커뮤니케이션
+638,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:25,added,high,전화,app,com.samsung.android.dialer,u25,2,커뮤니케이션
+639,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:53,added,high,전화,app,com.samsung.android.dialer,u26,2,커뮤니케이션
+640,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:14,added,high,전화,app,com.samsung.android.dialer,u5,2,커뮤니케이션
+641,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:06:03,added,high,전화,app,com.samsung.android.dialer,u6,2,커뮤니케이션
+642,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:23:44,added,high,전화,app,com.samsung.android.dialer,u7,2,커뮤니케이션
+643,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:25:04,added,high,전화,app,com.samsung.android.dialer,u8,2,커뮤니케이션
+644,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:33:34,added,high,전화,app,com.samsung.android.dialer,u4,1,커뮤니케이션
+645,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:59:25,added,high,Phone,app,com.samsung.android.dialer,u10,2,커뮤니케이션
+646,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:07:49,added,medium,배경화면 서비스,app,com.samsung.android.dynamiclock,u24,2,기본 앱
+647,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:21,added,medium,디지털 웰빙,app,com.samsung.android.forest,u4,1,생산성
+648,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:02,added,low,디지털 웰빙,app,com.samsung.android.forest,u11,2,생산성
+649,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:35,added,low,디지털 웰빙,app,com.samsung.android.forest,u12,2,생산성
+650,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:14,added,low,메가박스,app,com.megabox.mop,u21,2,엔터테인먼트
+651,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:13:08,added,low,메가MGC커피,app,co.kr.waldlust.megacoffee,u6,2,식음료
+652,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:11:03,added,low,디지털 웰빙,app,com.samsung.android.forest,u13,2,생산성
+653,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:40,added,low,디지털 웰빙,app,com.samsung.android.forest,u14,2,생산성
+654,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:42,added,low,디지털 웰빙,app,com.samsung.android.forest,u15,2,생산성
+655,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:04:03,added,high,매칭,keyword,,u14,2,
+656,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:12,added,low,말해보카,app,kr.epopsoft.word,u8,2,교육
+657,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:05,added,low,마이홈플러스,app,com.homeplus.myhomeplus,u8,2,라이프스타일
+658,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-31 21:53:46,added,high,마이루틴,app,com.minding.myroutine,u24,2,생산성
+659,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:44,added,low,마이 케이티,app,com.ktshow.cs,u15,2,라이프스타일
+660,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:34:26,added,high,마이 케이티,app,com.ktshow.cs,u22,2,라이프스타일
+661,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:10:17,added,low,마이 케이티,app,com.ktshow.cs,u24,2,라이프스타일
+662,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:57,added,high,링커리어,app,com.linkareer.linkareer,u18,2,비즈니스
+663,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-28 10:24:33,added,low,릴스,keyword,,u24,2,
+664,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-26 16:55:34,added,low,릴스,keyword,,u4,2,
+665,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-25 13:15:57,added,low,리워드,keyword,,u11,2,
+666,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:35:54,added,high,리브 Next,app,com.kbstar.reboot,u15,2,금융
+667,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:10,added,high,디지털 웰빙,app,com.samsung.android.forest,u18,2,생산성
+668,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:38:23,added,low,디지털 웰빙,app,com.samsung.android.forest,u19,2,생산성
+669,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:59,added,low,리디,app,com.initialcoms.ridi,u25,2,만화
+670,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:51,added,low,롯데마트GO,app,com.lottemart.lmscp,u8,2,쇼핑
+671,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:49,added,low,롯데ON,app,com.lotte,u8,2,쇼핑
+673,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:08:58,added,low,랭킹닭컴,app,com.yooic.b8ps.ia9d8,u23,2,쇼핑
+674,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:46,added,high,디지털 웰빙,app,com.samsung.android.forest,u2,2,생산성
+675,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:22:38,added,high,디지털 웰빙,app,com.samsung.android.forest,u20,2,생산성
+676,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:40,added,low,디지털 웰빙,app,com.samsung.android.forest,u21,2,생산성
+677,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:12,added,low,디지털 웰빙,app,com.samsung.android.forest,u22,2,생산성
+678,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:18:20,added,low,디지털 웰빙,app,com.samsung.android.forest,u23,2,생산성
+679,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:52,added,medium,디지털 웰빙,app,com.samsung.android.forest,u24,2,생산성
+680,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:14,added,low,디지털 웰빙,app,com.samsung.android.forest,u25,2,생산성
+681,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:43,added,low,디지털 웰빙,app,com.samsung.android.forest,u26,2,생산성
+682,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:11,added,low,디지털 웰빙,app,com.samsung.android.forest,u3,2,생산성
+683,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:27,added,low,디지털 웰빙,app,com.samsung.android.forest,u5,2,생산성
+684,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:53,added,low,디지털 웰빙,app,com.samsung.android.forest,u6,2,생산성
+685,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:29:51,added,low,디지털 웰빙,app,com.samsung.android.forest,u7,2,생산성
+686,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:48,added,low,디지털 웰빙,app,com.samsung.android.forest,u8,2,생산성
+687,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:41:41,added,low,디지털 웰빙,app,com.samsung.android.forest,u9,2,생산성
+688,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:51,added,low,디지털 웰빙,app,com.samsung.android.forest,u1,2,생산성
+689,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:10:04,added,low,Digital Wellbeing,app,com.samsung.android.forest,u10,2,생산성
+690,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:00:44,added,low,Gaming Hub,app,com.samsung.android.game.gamehome,u10,2,기본 앱
+691,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:03,added,low,Gaming Hub,app,com.samsung.android.game.gamehome,u11,2,기본 앱
+692,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:34,added,low,Gaming Hub,app,com.samsung.android.game.gamehome,u20,2,기본 앱
+693,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:13:53,added,low,Gaming Hub,app,com.samsung.android.game.gamehome,u23,2,기본 앱
+694,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:10,added,low,Gaming Hub,app,com.samsung.android.game.gamehome,u24,2,기본 앱
+695,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:41:47,added,low,Gaming Hub,app,com.samsung.android.game.gamehome,u9,2,기본 앱
+697,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:55,added,low,디시인사이드,app,com.dcinside.app.android,u22,2,소셜
+698,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:07,added,low,디바이스 케어,app,com.samsung.android.lool,u11,2,도구
+699,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:52,added,high,디바이스 케어,app,com.samsung.android.lool,u12,2,도구
+700,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:11:04,added,low,디바이스 케어,app,com.samsung.android.lool,u13,2,도구
+701,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:00:06,added,medium,디바이스 케어,app,com.samsung.android.lool,u14,2,도구
+702,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:34,added,low,디바이스 케어,app,com.samsung.android.lool,u16,2,도구
+703,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:30:06,added,high,디바이스 케어,app,com.samsung.android.lool,u18,2,도구
+704,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:36:04,added,high,디바이스 케어,app,com.samsung.android.lool,u19,2,도구
+705,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:22,added,medium,디바이스 케어,app,com.samsung.android.lool,u21,2,도구
+706,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:17,added,low,디바이스 케어,app,com.samsung.android.lool,u22,2,도구
+707,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:06:53,added,medium,디바이스 케어,app,com.samsung.android.lool,u24,2,도구
+708,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2025-01-01 06:31:44,added,low,디바이스 케어,app,com.samsung.android.lool,u25,2,도구
+709,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:56,added,low,디바이스 케어,app,com.samsung.android.lool,u26,2,도구
+710,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:52,added,high,디바이스 케어,app,com.samsung.android.lool,u5,2,도구
+711,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:27:54,added,medium,디바이스 케어,app,com.samsung.android.lool,u7,2,도구
+712,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:03,added,low,디바이스 케어,app,com.samsung.android.lool,u8,2,도구
+713,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:57,added,high,디바이스 케어,app,com.samsung.android.lool,u9,2,도구
+714,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:36:31,added,medium,디바이스 케어,app,com.samsung.android.lool,u4,1,도구
+715,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:10:38,added,low,디바이스 케어,app,com.samsung.android.lool,u1,2,도구
+716,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:11,added,high,듀오링고,app,com.duolingo,u4,1,교육
+717,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:55,added,low,듀오링고,app,com.duolingo,u26,2,교육
+718,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:49,added,low,데이트팝,app,com.tenfingers.seouldatepop,u24,2,여행 및 지역정보
+719,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:10:06,added,low,더쎈카드,app,com.bigsol.topcard,u24,2,금융
+720,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:09,added,low,더쎈카드,app,com.bigsol.topcard,u9,2,금융
+721,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:15:54,added,high,당신의 U+,app,com.lguplus.mobile.cs,u23,2,라이프스타일
+722,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:23:47,added,medium,당근,app,com.towneers.www,u18,2,소셜
+723,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:27,added,high,당근,app,com.towneers.www,u21,2,소셜
+724,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:35:35,added,medium,당근,app,com.towneers.www,u22,2,소셜
+725,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:34,added,low,당근,app,com.towneers.www,u24,2,소셜
+726,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:16,added,high,당근,app,com.towneers.www,u25,2,소셜
+727,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-29 18:45:13,added,high,당근,app,com.towneers.www,u26,2,소셜
+728,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:56,added,medium,당근,app,com.towneers.www,u3,2,소셜
+729,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-21 22:23:54,added,high,당근,app,com.towneers.www,u5,2,소셜
+730,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:22:54,added,medium,당근,app,com.towneers.www,u8,2,소셜
+731,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:06,added,low,당근,app,com.towneers.www,u9,2,소셜
+732,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:45,added,low,당근,app,com.towneers.www,u1,2,소셜
+733,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:04,added,low,닥터나우,app,com.baedalyakgook_user,u24,2,의료
+734,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:38,added,low,닥터나우,app,com.baedalyakgook_user,u8,2,의료
+735,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:49,added,low,다이어트신,app,com.diet.calorie160105,u16,2,건강/운동
+736,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:18,added,low,다이소몰,app,com.uxlayer.wipoint,u24,2,라이프스타일
+747,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:11:47,added,high,통화,app,com.samsung.android.incallui,u11,2,커뮤니케이션
+748,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:03,added,low,니콘내콘,app,com.ncncnative,u21,2,쇼핑
+749,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:23:47,added,medium,뉴닉,app,com.newneek.newneekapp,u20,2,뉴스/잡지
+750,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:14:23,added,low,넷﻿플﻿릭﻿스,app,com.netflix.mediaclient,u11,2,엔터테인먼트
+751,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:22,added,low,넷﻿플﻿릭﻿스,app,com.netflix.mediaclient,u12,2,엔터테인먼트
+752,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:10:35,added,low,넷﻿플﻿릭﻿스,app,com.netflix.mediaclient,u13,2,엔터테인먼트
+753,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:27,added,low,넷﻿플﻿릭﻿스,app,com.netflix.mediaclient,u24,2,엔터테인먼트
+754,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:38,added,high,넥슨플레이,app,com.nexon.nxplay,u9,2,커뮤니케이션
+755,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:20,added,high,통화,app,com.samsung.android.incallui,u14,2,커뮤니케이션
+756,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:35:26,added,high,통화,app,com.samsung.android.incallui,u15,2,커뮤니케이션
+757,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:48:54,added,high,통화,app,com.samsung.android.incallui,u17,2,커뮤니케이션
+758,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:28,added,high,통화,app,com.samsung.android.incallui,u18,2,커뮤니케이션
+759,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:36:42,added,high,통화,app,com.samsung.android.incallui,u19,2,커뮤니케이션
+760,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:57:27,added,high,통화,app,com.samsung.android.incallui,u2,2,커뮤니케이션
+761,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:05:36,added,high,통화,app,com.samsung.android.incallui,u21,2,커뮤니케이션
+762,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:37,added,low,네이트,app,com.nate.android.portalmini,u3,2,도서/참고자료
+763,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:12,added,high,네이버 카페,app,com.nhn.android.navercafe,u21,2,소셜
+764,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:35:52,added,medium,네이버 카페,app,com.nhn.android.navercafe,u22,2,소셜
+765,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:13:12,added,high,네이버 카페,app,com.nhn.android.navercafe,u3,2,소셜
+766,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:53:26,added,low,네이버 지도,app,com.nhn.android.nmap,u17,2,지도/네비게이션
+767,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-28 10:58:59,added,high,네이버 지도,app,com.nhn.android.nmap,u18,2,지도/네비게이션
+768,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:54,added,medium,네이버 지도,app,com.nhn.android.nmap,u21,2,지도/네비게이션
+769,83dc8619-af39-4f15-b438-969f072ce778,2024-12-22 17:37:27,added,low,네이버 지도,app,com.nhn.android.nmap,u6,2,지도/네비게이션
+770,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:41,added,medium,네이버 지도,app,com.nhn.android.nmap,u8,2,지도/네비게이션
+771,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:47,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u4,1,만화
+772,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:14:46,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u11,2,만화
+773,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:05:55,added,high,네이버 웹툰,app,com.nhn.android.webtoon,u13,2,만화
+774,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:34,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u15,2,만화
+775,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:38,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u16,2,만화
+776,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:52:56,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u17,2,만화
+777,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:44,added,medium,네이버 웹툰,app,com.nhn.android.webtoon,u21,2,만화
+778,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:49,added,medium,네이버 웹툰,app,com.nhn.android.webtoon,u3,2,만화
+779,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:29:02,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u7,2,만화
+780,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:58,added,low,네이버 웹툰,app,com.nhn.android.webtoon,u9,2,만화
+781,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:22,added,low,네이버 사전,app,com.nhn.android.naverdic,u6,2,교육
+782,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:22:21,added,medium,네이버 블로그,app,com.nhn.android.blog,u12,2,소셜
+783,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:09:08,added,medium,네이버 블로그,app,com.nhn.android.blog,u6,2,소셜
+784,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:21:06,added,high,네이버 블로그,app,com.nhn.android.blog,u8,2,소셜
+785,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:12:58,added,medium,네이버 메일,app,com.nhn.android.mail,u11,2,커뮤니케이션
+786,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:21:50,added,medium,네이버 메일,app,com.nhn.android.mail,u12,2,커뮤니케이션
+787,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:05:51,added,high,네이버 메일,app,com.nhn.android.mail,u13,2,커뮤니케이션
+788,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:32,added,high,네이버 메일,app,com.nhn.android.mail,u14,2,커뮤니케이션
+789,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:24:19,added,low,네이버 메일,app,com.nhn.android.mail,u8,2,커뮤니케이션
+790,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:41,added,low,넌얼마나쓰니,app,kr.co.rinasoft.howuse,u15,2,생산성
+791,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:12:28,added,low,넌얼마나쓰니,app,kr.co.rinasoft.howuse,u6,2,생산성
+794,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:35:20,added,high,통화,app,com.samsung.android.incallui,u22,2,커뮤니케이션
+795,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:09:39,added,high,통화,app,com.samsung.android.incallui,u23,2,커뮤니케이션
+796,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:57:51,added,high,통화,app,com.samsung.android.incallui,u24,2,커뮤니케이션
+797,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:08,added,high,통화,app,com.samsung.android.incallui,u25,2,커뮤니케이션
+798,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:48:30,added,high,통화,app,com.samsung.android.incallui,u26,2,커뮤니케이션
+799,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:17,added,high,통화,app,com.samsung.android.incallui,u5,2,커뮤니케이션
+800,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:06:22,added,high,통화,app,com.samsung.android.incallui,u6,2,커뮤니케이션
+801,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:23:38,added,high,통화,app,com.samsung.android.incallui,u7,2,커뮤니케이션
+802,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:30:54,added,high,통화,app,com.samsung.android.incallui,u8,2,커뮤니케이션
+803,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:33:25,added,high,통화,app,com.samsung.android.incallui,u4,1,커뮤니케이션
+804,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:03,added,high,Call,app,com.samsung.android.incallui,u10,2,커뮤니케이션
+805,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:40,added,low,멀티 컨트롤,app,com.samsung.android.inputshare,u22,2,기본 앱
+806,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:00:16,added,high,멀티 컨트롤,app,com.samsung.android.inputshare,u24,2,기본 앱
+807,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:18:02,added,low,멀티 컨트롤,app,com.samsung.android.inputshare,u6,2,기본 앱
+809,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:30:06,added,high,메시지,app,com.samsung.android.messaging,u4,1,커뮤니케이션
+810,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:21,added,high,메시지,app,com.samsung.android.messaging,u1,2,커뮤니케이션
+811,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:10:24,added,high,메시지,app,com.samsung.android.messaging,u11,2,커뮤니케이션
+812,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:20:25,added,high,메시지,app,com.samsung.android.messaging,u12,2,커뮤니케이션
+813,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:03:09,added,high,메시지,app,com.samsung.android.messaging,u13,2,커뮤니케이션
+814,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-28 10:58:32,added,high,김포페이,app,gov.gimpo.gpay,u18,2,금융
+815,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:00:49,added,low,김과외,app,com.place5.gawekim,u10,2,교육
+816,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:54,added,low,김과외,app,com.place5.gawekim,u8,2,교육
+817,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:40:31,added,low,김과외,app,com.place5.gawekim,u9,2,교육
+818,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:25,added,low,급구,app,com.needer.gubgoo2,u8,2,비즈니스
+819,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:29:21,added,high,근로,keyword,,u20,2,
+820,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:55:42,added,high,메시지,app,com.samsung.android.messaging,u14,2,커뮤니케이션
+821,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:02,added,high,메시지,app,com.samsung.android.messaging,u15,2,커뮤니케이션
+822,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:16,added,high,메시지,app,com.samsung.android.messaging,u16,2,커뮤니케이션
+823,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:49:58,added,high,메시지,app,com.samsung.android.messaging,u17,2,커뮤니케이션
+824,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:42,added,high,메시지,app,com.samsung.android.messaging,u18,2,커뮤니케이션
+825,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:43,added,low,메시지,app,com.samsung.android.messaging,u19,2,커뮤니케이션
+826,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:42:50,added,low,국제발신,keyword,,u25,2,
+827,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:38:58,added,low,국외발신,keyword,,u22,2,
+828,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:29:23,added,high,국가방학재단,keyword,,u20,2,
+829,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:00:46,added,low,교보문고,app,mok.android,u10,2,도서/참고자료
+830,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 18:48:20,added,medium,광고,keyword,,u4,2,
+831,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:11:32,added,low,광고,keyword,,u1,2,
+832,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:11:05,added,low,광고,keyword,,u10,2,
+833,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:17:16,added,low,광고,keyword,,u11,2,
+834,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:26:52,added,low,광고,keyword,,u12,2,
+835,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:03:23,added,low,광고,keyword,,u13,2,
+836,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:05:12,added,low,광고,keyword,,u14,2,
+837,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:43:49,added,low,광고,keyword,,u15,2,
+838,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:31:19,added,low,광고,keyword,,u18,2,
+839,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:29:11,added,low,광고,keyword,,u20,2,
+840,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:14:48,added,low,광고,keyword,,u21,2,
+841,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:38:03,added,low,광고,keyword,,u22,2,
+842,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:13:42,added,low,광고,keyword,,u24,2,
+843,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-27 19:05:24,added,low,광고,keyword,,u25,2,
+844,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:54:12,added,low,광고,keyword,,u26,2,
+845,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:20:21,added,low,광고,keyword,,u3,2,
+846,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:04:55,added,low,광고,keyword,,u5,2,
+847,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:21:06,added,low,광고,keyword,,u6,2,
+848,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:31:45,added,low,광고,keyword,,u7,2,
+849,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:48,added,low,광고,keyword,,u8,2,
+850,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:46:12,added,low,광고,keyword,,u9,2,
+851,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-22 19:09:21,added,low,공차,app,com.easymembership.gongcha,u10,2,식음료
+852,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:24:08,added,medium,경희대학교,app,ac.kr.khu.mobileId,u20,2,교육
+853,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:29:07,added,low,경희대학교,keyword,,u20,2,
+854,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:02:19,added,low,경기지역화폐,app,gov.gyeonggi.ggcard,u14,2,금융
+855,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:15:38,added,low,경기지역화폐,app,gov.gyeonggi.ggcard,u23,2,금융
+856,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:00:24,added,high,경기지역화폐,app,gov.gyeonggi.ggcard,u24,2,금융
+857,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:57,added,low,경기지역화폐,app,gov.gyeonggi.ggcard,u26,2,금융
+858,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:36,added,low,경기도 기후행동 기회소득,app,kr.or.ggaction,u21,2,라이프스타일
+859,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:03:33,added,high,결제,keyword,,u14,2,
+860,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:55:37,added,high,메시지,app,com.samsung.android.messaging,u2,2,커뮤니케이션
+861,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:37,added,high,메시지,app,com.samsung.android.messaging,u20,2,커뮤니케이션
+862,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:07:14,added,high,메시지,app,com.samsung.android.messaging,u21,2,커뮤니케이션
+863,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:34:57,added,high,메시지,app,com.samsung.android.messaging,u22,2,커뮤니케이션
+864,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:11:18,added,medium,메시지,app,com.samsung.android.messaging,u23,2,커뮤니케이션
+865,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:00:34,added,high,메시지,app,com.samsung.android.messaging,u24,2,커뮤니케이션
+866,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:34,added,high,메시지,app,com.samsung.android.messaging,u25,2,커뮤니케이션
+867,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:50:11,added,medium,메시지,app,com.samsung.android.messaging,u26,2,커뮤니케이션
+868,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:10:25,added,high,메시지,app,com.samsung.android.messaging,u3,2,커뮤니케이션
+869,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:04:17,added,high,메시지,app,com.samsung.android.messaging,u5,2,커뮤니케이션
+870,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:04:21,added,high,메시지,app,com.samsung.android.messaging,u6,2,커뮤니케이션
+871,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:23:51,added,high,메시지,app,com.samsung.android.messaging,u7,2,커뮤니케이션
+872,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:25:10,added,high,메시지,app,com.samsung.android.messaging,u8,2,커뮤니케이션
+873,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:35:40,added,high,메시지,app,com.samsung.android.messaging,u9,2,커뮤니케이션
+874,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:12,added,high,Messages,app,com.samsung.android.messaging,u10,2,커뮤니케이션
+875,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:22:56,added,high,삼성 클라우드,app,com.samsung.android.scloud,u20,2,생산성
+876,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:06,added,low,삼성 클라우드,app,com.samsung.android.scloud,u8,2,생산성
+877,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:33:11,added,medium,삼성 클라우드,app,com.samsung.android.scloud,u4,1,생산성
+881,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:59:36,added,medium,영상통화 효과,app,com.samsung.android.vtcamerasettings,u14,2,기본 앱
+882,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:24:20,added,high,영상통화 효과,app,com.samsung.android.vtcamerasettings,u20,2,기본 앱
+883,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:27:21,added,medium,영상통화 효과,app,com.samsung.android.vtcamerasettings,u7,2,기본 앱
+884,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:22,added,low,영상통화 효과,app,com.samsung.android.vtcamerasettings,u8,2,기본 앱
+900,83dc8619-af39-4f15-b438-969f072ce778,2024-12-22 17:37:37,added,medium,갓피플성경,app,com.godpeople.GPBIBLE,u6,2,도서/참고자료
+902,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:14:08,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u11,2,음악/오디오
+903,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:35,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u12,2,음악/오디오
+904,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:09:29,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u13,2,음악/오디오
+905,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:24:38,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u18,2,음악/오디오
+906,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:33:54,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u19,2,음악/오디오
+907,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:56:48,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u2,2,음악/오디오
+908,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:23:01,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u20,2,음악/오디오
+909,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:34:10,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u22,2,음악/오디오
+910,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:18:49,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u23,2,음악/오디오
+911,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:05:40,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u24,2,음악/오디오
+912,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:34:56,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u25,2,음악/오디오
+913,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:49:40,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u26,2,음악/오디오
+914,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:09:16,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u5,2,음악/오디오
+915,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:05:10,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u6,2,음악/오디오
+916,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:37:22,added,high,YouTube Music,app,com.google.android.apps.youtube.music,u9,2,음악/오디오
+917,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:09:54,added,medium,YouTube,app,com.google.android.youtube,u10,2,동영상 플레이어/편집기
+918,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:09:32,added,high,YouTube,app,com.google.android.youtube,u11,2,동영상 플레이어/편집기
+919,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:43,added,high,YouTube,app,com.google.android.youtube,u12,2,동영상 플레이어/편집기
+920,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:05:22,added,high,YouTube,app,com.google.android.youtube,u13,2,동영상 플레이어/편집기
+921,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:58:44,added,high,YouTube,app,com.google.android.youtube,u14,2,동영상 플레이어/편집기
+922,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:38:55,added,medium,YouTube,app,com.google.android.youtube,u15,2,동영상 플레이어/편집기
+923,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:02:24,added,high,YouTube,app,com.google.android.youtube,u16,2,동영상 플레이어/편집기
+924,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:54:50,added,high,YouTube,app,com.google.android.youtube,u17,2,동영상 플레이어/편집기
+925,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:18:56,added,high,YouTube,app,com.google.android.youtube,u18,2,동영상 플레이어/편집기
+926,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:33:31,added,high,YouTube,app,com.google.android.youtube,u19,2,동영상 플레이어/편집기
+927,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:55:22,added,high,YouTube,app,com.google.android.youtube,u2,2,동영상 플레이어/편집기
+928,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:24:22,added,high,YouTube,app,com.google.android.youtube,u20,2,동영상 플레이어/편집기
+929,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:20,added,medium,YouTube,app,com.google.android.youtube,u21,2,동영상 플레이어/편집기
+930,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:33:14,added,high,YouTube,app,com.google.android.youtube,u22,2,동영상 플레이어/편집기
+931,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:09:26,added,high,YouTube,app,com.google.android.youtube,u23,2,동영상 플레이어/편집기
+932,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:56:50,added,high,YouTube,app,com.google.android.youtube,u24,2,동영상 플레이어/편집기
+933,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:05,added,high,YouTube,app,com.google.android.youtube,u25,2,동영상 플레이어/편집기
+934,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-26 14:02:34,added,high,YouTube,app,com.google.android.youtube,u26,2,동영상 플레이어/편집기
+935,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:19,added,high,YouTube,app,com.google.android.youtube,u3,2,동영상 플레이어/편집기
+936,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:15:34,added,high,YouTube,app,com.google.android.youtube,u6,2,동영상 플레이어/편집기
+937,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:29,added,high,YouTube,app,com.google.android.youtube,u9,2,동영상 플레이어/편집기
+938,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-22 11:47:30,added,high,YouTube,app,com.google.android.youtube,u4,2,동영상 플레이어/편집기
+940,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:40,added,low,Yogiyo,app,com.fineapp.yogiyo,u10,2,식음료
+941,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:56,added,low,YAZIO,app,com.yazio.android,u16,2,건강/운동
+942,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:57:34,added,medium,X,app,com.twitter.android,u17,2,소셜
+943,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:34,added,low,X,app,com.twitter.android,u26,2,소셜
+944,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:12:09,added,low,X,app,com.twitter.android,u6,2,소셜
+947,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:06:44,added,low,Windows와 연결,app,com.microsoft.appmanager,u1,2,생산성
+948,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:26,added,low,Windows와 연결,app,com.microsoft.appmanager,u15,2,생산성
+949,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:51:32,added,high,Windows와 연결,app,com.microsoft.appmanager,u17,2,생산성
+950,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:34,added,low,Windows와 연결,app,com.microsoft.appmanager,u22,2,생산성
+951,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:43,added,low,Windows와 연결,app,com.microsoft.appmanager,u24,2,생산성
+952,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:05,added,medium,Windows와 연결,app,com.microsoft.appmanager,u8,2,생산성
+953,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:36:23,added,high,Windows와 연결,app,com.microsoft.appmanager,u4,1,생산성
+954,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:02,added,low,Wild Rift,app,com.riotgames.league.wildrift,u3,2,게임
+956,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:53:01,added,low,Whale,app,com.naver.whale,u26,2,커뮤니케이션
+957,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:12:55,added,low,Weverse,app,co.benx.weverse,u6,2,소셜
+958,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:29:09,added,low,Web발신,keyword,,u20,2,
+959,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:08,added,low,갤러리 스토리,app,com.samsung.storyservice,u11,2,사진
+960,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:43,added,low,Wavve,app,kr.co.captv.pooqV2,u9,2,엔터테인먼트
+961,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:57,added,high,갤러리 스토리,app,com.samsung.storyservice,u12,2,사진
+962,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:59,added,low,Vector Full,app,com.nekki.vector.paid,u11,2,게임
+963,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:25:46,added,low,UNIQLO,app,com.uniqlo.kr.catalogue,u18,2,라이프스타일
+964,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:31,added,low,U+멤버십,app,uplus.membership,u8,2,라이프스타일
+965,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:25,added,low,TVING,app,net.cj.cjhv.gs.tving,u10,2,엔터테인먼트
+966,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:13,added,low,Tumblbug,app,com.tumblbug.app,u8,2,라이프스타일
+967,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:05:09,added,high,Toss,app,viva.republica.toss,u10,2,금융
+968,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:19:00,added,low,todo mate,app,com.undefined.mate,u6,2,생산성
+969,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:15,added,low,todo mate,app,com.undefined.mate,u8,2,생산성
+970,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:08:53,added,medium,TimeBlocks,app,com.hellowo.day2life,u10,2,생산성
+971,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:47,added,low,TikTok,app,com.ss.android.ugc.trill,u3,2,동영상 플레이어/편집기
+972,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:02:03,added,low,Tick Tick,app,com.ticktick.task,u14,2,생산성
+973,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:08:39,added,low,Threads,app,com.instagram.barcelona,u10,2,소셜
+974,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:56:05,added,low,Threads,app,com.instagram.barcelona,u17,2,소셜
+975,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:28,added,medium,Threads,app,com.instagram.barcelona,u18,2,소셜
+976,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:23:59,added,medium,Threads,app,com.instagram.barcelona,u20,2,소셜
+977,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:22:30,added,medium,Threads,app,com.instagram.barcelona,u8,2,소셜
+978,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:37:59,added,low,Threads,app,com.instagram.barcelona,u9,2,소셜
+979,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-26 16:18:25,added,medium,Threads,app,com.instagram.barcelona,u4,2,소셜
+980,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:21,added,high,The Day Before,app,com.aboutjsp.thedaybefore,u12,2,라이프스타일
+981,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:01:31,added,high,The Day Before,app,com.aboutjsp.thedaybefore,u24,2,라이프스타일
+982,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:13:28,added,low,The Day Before,app,com.aboutjsp.thedaybefore,u6,2,라이프스타일
+983,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:09,added,low,The Day Before,app,com.aboutjsp.thedaybefore,u8,2,라이프스타일
+984,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:28,added,low,Temu,app,com.einnovation.temu,u18,2,쇼핑
+985,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:41,added,high,Tasks,app,com.google.android.apps.tasks,u4,1,생산성
+986,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:30:36,added,medium,Perplexity,app,ai.perplexity.app.android,u4,1,생산성
+987,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:45,added,low,RVX,app,app.rvx.android.youtube,u15,2,동영상 플레이어/편집기
+988,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:11:21,added,low,갤러리 스토리,app,com.samsung.storyservice,u13,2,사진
+989,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:53,added,low,갤러리 스토리,app,com.samsung.storyservice,u14,2,사진
+990,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:39:07,added,medium,갤러리 스토리,app,com.samsung.storyservice,u15,2,사진
+991,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:07,added,low,갤러리 스토리,app,com.samsung.storyservice,u16,2,사진
+992,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:53:36,added,low,갤러리 스토리,app,com.samsung.storyservice,u17,2,사진
+993,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:22:34,added,medium,갤러리 스토리,app,com.samsung.storyservice,u18,2,사진
+994,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:39,added,low,갤러리 스토리,app,com.samsung.storyservice,u19,2,사진
+995,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:35,added,high,갤러리 스토리,app,com.samsung.storyservice,u2,2,사진
+996,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:33,added,low,갤러리 스토리,app,com.samsung.storyservice,u20,2,사진
+997,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:33,added,low,갤러리 스토리,app,com.samsung.storyservice,u21,2,사진
+998,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:53,added,low,갤러리 스토리,app,com.samsung.storyservice,u22,2,사진
+999,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:32,added,low,갤러리 스토리,app,com.samsung.storyservice,u25,2,사진
+1000,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-25 11:49:49,added,low,start,keyword,,u12,2,
+1001,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:32,added,low,갤러리 스토리,app,com.samsung.storyservice,u5,2,사진
+1002,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:07:44,added,low,갤러리 스토리,app,com.samsung.storyservice,u1,2,사진
+1003,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:08:47,added,low,Gallery stories,app,com.samsung.storyservice,u10,2,사진
+1018,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:14:04,added,low,jujutsuphanpara,app,com.bilibilihk.jujutsuphanparagp,u23,2,게임
+1019,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:09:09,added,low,Pi,app,com.blockchainvault,u13,2,소셜
+1020,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 14:18:53,added,low,Pi,app,com.blockchainvault,u5,2,소셜
+1021,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:49,added,low,SNOW,app,com.campmobile.snow,u8,2,사진
+1022,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-21 09:55:56,added,medium,RISE,app,com.cheezebucket.rise,u4,2,건강/운동
+1023,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:50,added,medium,SWING,app,com.co.swing,u12,2,여행 및 지역정보
+1024,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:06:34,added,medium,SWING,app,com.co.swing,u24,2,여행 및 지역정보
+1025,83dc8619-af39-4f15-b438-969f072ce778,2024-12-23 00:00:07,added,medium,STAR's bubble,app,com.dearu.bubble.stars,u6,2,소셜
+1026,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:11:07,added,low,G마켓,app,com.ebay.kr.gmarket,u21,2,쇼핑
+1027,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:04:10,added,high,Messenger,app,com.facebook.orca,u13,2,커뮤니케이션
+1028,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:07,added,low,Messenger,app,com.facebook.orca,u3,2,커뮤니케이션
+1029,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:23:31,added,medium,KREAM,app,com.fstudio.kream,u18,2,쇼핑
+1030,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:09,added,low,KREAM,app,com.fstudio.kream,u3,2,쇼핑
+1031,83dc8619-af39-4f15-b438-969f072ce778,2024-12-22 17:37:22,added,high,GitHub,app,com.github.android,u6,2,생산성
+1032,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:22:19,added,medium,GitHub,app,com.github.android,u8,2,생산성
+1033,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:02:55,added,high,Google 오피니언 리워드,app,com.google.android.apps.paidtasks,u1,2,도구
+1036,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:39,added,high,Gmail,app,com.google.android.gm,u1,2,커뮤니케이션
+1037,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:22,added,high,Gmail,app,com.google.android.gm,u4,1,커뮤니케이션
+1038,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:39,added,high,Gmail,app,com.google.android.gm,u10,2,커뮤니케이션
+1039,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:10:47,added,high,Gmail,app,com.google.android.gm,u11,2,커뮤니케이션
+1040,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:07,added,high,Gmail,app,com.google.android.gm,u12,2,커뮤니케이션
+1041,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:09:49,added,low,Gmail,app,com.google.android.gm,u13,2,커뮤니케이션
+1042,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:30,added,high,Gmail,app,com.google.android.gm,u14,2,커뮤니케이션
+1043,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:02:38,added,high,Gmail,app,com.google.android.gm,u16,2,커뮤니케이션
+1044,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:50:09,added,high,Gmail,app,com.google.android.gm,u17,2,커뮤니케이션
+1045,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:20:10,added,high,Gmail,app,com.google.android.gm,u18,2,커뮤니케이션
+1046,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:55:55,added,high,Gmail,app,com.google.android.gm,u2,2,커뮤니케이션
+1047,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-26 09:08:59,added,medium,Gmail,app,com.google.android.gm,u20,2,커뮤니케이션
+1048,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:56,added,medium,Gmail,app,com.google.android.gm,u21,2,커뮤니케이션
+1049,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:35:02,added,high,Gmail,app,com.google.android.gm,u22,2,커뮤니케이션
+1050,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:11:43,added,high,Gmail,app,com.google.android.gm,u23,2,커뮤니케이션
+1051,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:00:55,added,high,Gmail,app,com.google.android.gm,u24,2,커뮤니케이션
+1052,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:40,added,high,Gmail,app,com.google.android.gm,u25,2,커뮤니케이션
+1053,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:46,added,medium,Gmail,app,com.google.android.gm,u26,2,커뮤니케이션
+1054,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:36,added,high,Gmail,app,com.google.android.gm,u3,2,커뮤니케이션
+1055,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:06:13,added,high,Gmail,app,com.google.android.gm,u5,2,커뮤니케이션
+1056,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:05:19,added,high,Gmail,app,com.google.android.gm,u6,2,커뮤니케이션
+1057,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:23:03,added,high,Gmail,app,com.google.android.gm,u7,2,커뮤니케이션
+1058,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:20:34,added,high,Gmail,app,com.google.android.gm,u8,2,커뮤니케이션
+1059,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:36:51,added,high,Gmail,app,com.google.android.gm,u9,2,커뮤니케이션
+1060,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:14,added,low,Google Play 서비스,app,com.google.android.gms,u1,2,도구
+1061,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:36:11,added,low,Google Play 서비스,app,com.google.android.gms,u4,1,도구
+1062,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:10,added,low,Google Play 서비스,app,com.google.android.gms,u12,2,도구
+1063,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:10:01,added,low,Google Play 서비스,app,com.google.android.gms,u13,2,도구
+1064,83dc8619-af39-4f15-b438-969f072ce778,2024-12-26 00:25:56,added,low,recently posted,keyword,,u6,2,
+1065,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:06,added,low,Google Play 서비스,app,com.google.android.gms,u14,2,도구
+1066,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:44,added,low,Google Play 서비스,app,com.google.android.gms,u16,2,도구
+1067,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:30:26,added,medium,Google Play 서비스,app,com.google.android.gms,u18,2,도구
+1068,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:51,added,low,Google Play 서비스,app,com.google.android.gms,u19,2,도구
+1069,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-26 15:16:02,added,low,PyImageSearch,keyword,,u2,2,
+1070,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:11:09,added,low,Google Play 서비스,app,com.google.android.gms,u21,2,도구
+1071,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:02,added,low,Google Play 서비스,app,com.google.android.gms,u22,2,도구
+1072,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:17:51,added,high,Google Play 서비스,app,com.google.android.gms,u23,2,도구
+1073,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:21,added,low,Google Play 서비스,app,com.google.android.gms,u24,2,도구
+1074,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:48,added,low,Google Play 서비스,app,com.google.android.gms,u25,2,도구
+1075,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:40,added,low,Google Play 서비스,app,com.google.android.gms,u26,2,도구
+1076,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:14:53,added,medium,Google Play 서비스,app,com.google.android.gms,u3,2,도구
+1077,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:08:21,added,high,Google Play 서비스,app,com.google.android.gms,u5,2,도구
+1078,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:15:20,added,low,Google Play 서비스,app,com.google.android.gms,u6,2,도구
+1079,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:27:47,added,low,Google Play 서비스,app,com.google.android.gms,u8,2,도구
+1080,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:37:36,added,low,Google Play 서비스,app,com.google.android.gms,u9,2,도구
+1081,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:08:12,added,medium,Google Play services,app,com.google.android.gms,u10,2,도구
+1082,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:34:30,added,low,Google,app,com.google.android.googlequicksearchbox,u4,1,도구
+1083,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:09:57,added,high,Google,app,com.google.android.googlequicksearchbox,u10,2,도구
+1084,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:14,added,low,Google,app,com.google.android.googlequicksearchbox,u12,2,도구
+1085,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:02:47,added,high,Google,app,com.google.android.googlequicksearchbox,u13,2,도구
+1086,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:48:46,added,high,Google,app,com.google.android.googlequicksearchbox,u17,2,도구
+1087,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:22:18,added,medium,Google,app,com.google.android.googlequicksearchbox,u18,2,도구
+1088,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:32,added,low,Google,app,com.google.android.googlequicksearchbox,u19,2,도구
+1089,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:42,added,high,Google,app,com.google.android.googlequicksearchbox,u2,2,도구
+1090,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:23,added,medium,Google,app,com.google.android.googlequicksearchbox,u21,2,도구
+1091,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:33:34,added,high,Google,app,com.google.android.googlequicksearchbox,u22,2,도구
+1092,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:57:22,added,high,Google,app,com.google.android.googlequicksearchbox,u24,2,도구
+1093,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:51,added,low,Google,app,com.google.android.googlequicksearchbox,u26,2,도구
+1094,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:12,added,low,Google,app,com.google.android.googlequicksearchbox,u3,2,도구
+1095,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:06:47,added,high,Google,app,com.google.android.googlequicksearchbox,u5,2,도구
+1096,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:15:28,added,high,Google,app,com.google.android.googlequicksearchbox,u6,2,도구
+1097,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:26:47,added,medium,Google,app,com.google.android.googlequicksearchbox,u7,2,도구
+1098,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:27:55,added,low,Google,app,com.google.android.googlequicksearchbox,u8,2,도구
+1100,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:16:01,added,low,IBK 기업은행,app,com.ibk.android.ionebank,u23,2,금융
+1101,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:04:36,added,low,Melon,app,com.iloen.melon,u10,2,음악/오디오
+1102,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:10:07,added,low,Melon,app,com.iloen.melon,u13,2,음악/오디오
+1103,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:23:41,added,high,Melon,app,com.iloen.melon,u18,2,음악/오디오
+1104,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:15:41,added,high,Melon,app,com.iloen.melon,u6,2,음악/오디오
+1108,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:08:47,added,low,Polaris Office,app,com.infraware.office.link,u24,2,생산성
+1109,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:26,added,high,Instagram,app,com.instagram.android,u1,2,소셜
+1110,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:24,added,high,Instagram,app,com.instagram.android,u4,1,소셜
+1111,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:15,added,high,Instagram,app,com.instagram.android,u10,2,소셜
+1112,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:12:38,added,medium,Instagram,app,com.instagram.android,u11,2,소셜
+1113,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:48,added,high,Instagram,app,com.instagram.android,u12,2,소셜
+1114,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:04:23,added,high,Instagram,app,com.instagram.android,u13,2,소셜
+1115,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:07,added,low,Instagram,app,com.instagram.android,u14,2,소셜
+1116,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:50,added,high,Instagram,app,com.instagram.android,u18,2,소셜
+1117,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:31,added,low,Instagram,app,com.instagram.android,u20,2,소셜
+1118,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:00:45,added,high,Instagram,app,com.instagram.android,u24,2,소셜
+1119,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-26 12:09:56,added,high,Instagram,app,com.instagram.android,u26,2,소셜
+1120,83dc8619-af39-4f15-b438-969f072ce778,2024-12-25 22:13:02,added,low,New video in their story,keyword,,u6,2,
+1121,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:47,added,high,Instagram,app,com.instagram.android,u3,2,소셜
+1122,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:05,added,low,Instagram,app,com.instagram.android,u5,2,소셜
+1123,83dc8619-af39-4f15-b438-969f072ce778,2024-12-21 16:24:28,added,medium,Instagram,app,com.instagram.android,u6,2,소셜
+1124,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:28:52,added,low,Instagram,app,com.instagram.android,u7,2,소셜
+1125,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:20:18,added,high,Instagram,app,com.instagram.android,u8,2,소셜
+1126,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:37:50,added,high,Instagram,app,com.instagram.android,u9,2,소셜
+1127,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:51,added,high,LearningX Student,app,com.instructure.candroid.xinics.production,u12,2,교육
+1128,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:35:29,added,high,LearningX Student,app,com.instructure.candroid.xinics.production,u15,2,교육
+1129,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:32,added,low,LearningX Student,app,com.instructure.candroid.xinics.production,u16,2,교육
+1130,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:33,added,high,LearningX Student,app,com.instructure.candroid.xinics.production,u18,2,교육
+1131,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:10:16,added,high,LearningX Student,app,com.instructure.candroid.xinics.production,u23,2,교육
+1132,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:51,added,high,LearningX Student,app,com.instructure.candroid.xinics.production,u3,2,교육
+1133,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:25:33,added,medium,LearningX Student,app,com.instructure.candroid.xinics.production,u7,2,교육
+1134,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:19,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u4,1,교육
+1135,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:25,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u10,2,교육
+1136,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:10:44,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u11,2,교육
+1137,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:03:34,added,low,LearningX Student,app,com.instructure.candroid.xinics2.production,u13,2,교육
+1138,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:57:58,added,medium,LearningX Student,app,com.instructure.candroid.xinics2.production,u17,2,교육
+1139,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:21:00,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u18,2,교육
+1140,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:56:17,added,low,LearningX Student,app,com.instructure.candroid.xinics2.production,u2,2,교육
+1141,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:24:05,added,medium,LearningX Student,app,com.instructure.candroid.xinics2.production,u20,2,교육
+1142,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:01:40,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u24,2,교육
+1143,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:36:08,added,medium,LearningX Student,app,com.instructure.candroid.xinics2.production,u25,2,교육
+1144,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:12:53,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u3,2,교육
+1145,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:06,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u5,2,교육
+1146,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:05:36,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u6,2,교육
+1147,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:38:08,added,high,LearningX Student,app,com.instructure.candroid.xinics2.production,u9,2,교육
+1148,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:04:55,added,high,KakaoTalk,app,com.kakao.talk,u10,2,커뮤니케이션
+1149,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:04:58,added,high,Kakao T,app,com.kakao.taxi,u10,2,지도/네비게이션
+1150,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:28,added,low,kakaopay,app,com.kakaopay.app,u10,2,금융
+1151,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:12,added,high,KB Pay,app,com.kbcard.cxh.appcard,u10,2,금융
+1152,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:07,added,medium,KB Pay,app,com.kbcard.cxh.appcard,u21,2,금융
+1153,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:19:47,added,medium,KB Pay,app,com.kbcard.cxh.appcard,u23,2,금융
+1154,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-27 21:26:10,added,low,KB Pay,app,com.kbcard.cxh.appcard,u26,2,금융
+1155,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:07:31,added,high,KB Pay,app,com.kbcard.cxh.appcard,u5,2,금융
+1156,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:38:53,added,high,KB Pay,app,com.kbcard.cxh.appcard,u9,2,금융
+1157,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:20,added,low,KB스타뱅킹,app,com.kbstar.kbbank,u20,2,금융
+1158,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:06:17,added,medium,KB스타뱅킹,app,com.kbstar.kbbank,u24,2,금융
+1159,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:56,added,low,KB스타뱅킹,app,com.kbstar.kbbank,u26,2,금융
+1160,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:04,added,low,KB스타뱅킹,app,com.kbstar.kbbank,u3,2,금융
+1161,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:04:21,added,high,KB스타뱅킹,app,com.kbstar.kbbank,u5,2,금융
+1162,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:22,added,low,KB스타뱅킹,app,com.kbstar.kbbank,u8,2,금융
+1163,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:38:30,added,low,KB스타뱅킹,app,com.kbstar.kbbank,u9,2,금융
+1164,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:06:35,added,low,medium,keyword,,u5,2,
+1165,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:06:00,added,high,KB Star Banking,app,com.kbstar.kbbank,u10,2,금융
+1166,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:10:57,added,high,PASS,app,com.kt.ktauth,u11,2,라이프스타일
+1167,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:44,added,medium,PASS,app,com.kt.ktauth,u24,2,라이프스타일
+1168,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:16:07,added,high,PASS,app,com.kt.ktauth,u6,2,라이프스타일
+1169,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:31:53,added,low,KT 패밀리박스,app,com.kt.ollehfamilybox,u4,1,라이프스타일
+1170,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:55,added,low,PASS,app,com.lguplus.smartotp,u25,2,금융
+1171,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:44,added,high,PASS,app,com.lguplus.smartotp,u8,2,금융
+1172,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:01:52,added,low,McDonald's,app,com.mcdonalds.mobileapp,u10,2,식음료
+1173,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:07:38,added,low,McDonald's,app,com.mcdonalds.mobileapp,u21,2,식음료
+1174,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:11:09,added,medium,McDonald's,app,com.mcdonalds.mobileapp,u24,2,식음료
+1175,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:53,added,low,McDonald's,app,com.mcdonalds.mobileapp,u26,2,식음료
+1176,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:02,added,low,McDonald's,app,com.mcdonalds.mobileapp,u3,2,식음료
+1177,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:03,added,low,McDonald's,app,com.mcdonalds.mobileapp,u9,2,식음료
+1178,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:24:21,added,low,Medium,app,com.medium.reader,u12,2,뉴스/잡지
+1179,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:30:28,added,medium,Microsoft 365 (Office),app,com.microsoft.office.officehubrow,u18,2,생산성
+1180,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:32,added,low,Microsoft 365 (Office),app,com.microsoft.office.officehubrow,u24,2,생산성
+1181,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:13,added,low,Microsoft 365 (Office),app,com.microsoft.office.officehubrow,u25,2,생산성
+1182,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:13,added,low,Microsoft 365 (Office),app,com.microsoft.office.officehubrow,u4,1,생산성
+1184,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:33:15,added,medium,OneDrive,app,com.microsoft.skydrive,u4,1,생산성
+1185,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:26:08,added,low,OneDrive,app,com.microsoft.skydrive,u18,2,생산성
+1186,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:29,added,high,OneDrive,app,com.microsoft.skydrive,u20,2,생산성
+1187,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2025-01-01 06:31:49,added,low,OneDrive,app,com.microsoft.skydrive,u25,2,생산성
+1188,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-31 21:53:36,added,high,Planfit,app,com.mih.planfit,u24,2,건강/운동
+1189,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-25 02:19:20,added,low,M-STOCK,app,com.miraeasset.trade,u11,2,금융
+1190,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:01:09,added,low,M-STOCK,app,com.miraeasset.trade,u14,2,금융
+1191,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:41:11,added,high,M-STOCK,app,com.miraeasset.trade,u15,2,금융
+1192,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:09,added,low,M-STOCK,app,com.miraeasset.trade,u9,2,금융
+1193,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:05:48,added,low,Netflix,app,com.netflix.mediaclient,u10,2,엔터테인먼트
+1194,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:27:23,added,low,MYBOX,app,com.nhn.android.ndrive,u18,2,생산성
+1195,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:31,added,low,MYBOX,app,com.nhn.android.ndrive,u8,2,생산성
+1196,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:09:27,added,low,MYBOX,app,com.nhn.android.ndrive,u1,2,생산성
+1197,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:41,added,low,NAVER Map,app,com.nhn.android.nmap,u10,2,지도/네비게이션
+1198,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:10,added,high,NAVER,app,com.nhn.android.search,u10,2,도서/참고자료
+1199,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-25 02:18:41,added,medium,NAVER,app,com.nhn.android.search,u11,2,도서/참고자료
+1200,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:23:05,added,medium,NAVER,app,com.nhn.android.search,u12,2,도서/참고자료
+1201,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:06:09,added,high,NAVER,app,com.nhn.android.search,u13,2,도서/참고자료
+1202,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:59:58,added,medium,NAVER,app,com.nhn.android.search,u14,2,도서/참고자료
+1203,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:41:15,added,high,NAVER,app,com.nhn.android.search,u15,2,도서/참고자료
+1204,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:21:31,added,high,NAVER,app,com.nhn.android.search,u18,2,도서/참고자료
+1205,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:09,added,medium,NAVER,app,com.nhn.android.search,u19,2,도서/참고자료
+1206,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:24:17,added,medium,NAVER,app,com.nhn.android.search,u20,2,도서/참고자료
+1207,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:13,added,medium,NAVER,app,com.nhn.android.search,u21,2,도서/참고자료
+1208,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-28 10:44:26,added,low,NAVER,app,com.nhn.android.search,u22,2,도서/참고자료
+1209,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:19:53,added,low,NAVER,app,com.nhn.android.search,u23,2,도서/참고자료
+1210,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:05:02,added,high,NAVER,app,com.nhn.android.search,u24,2,도서/참고자료
+1211,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:52,added,low,NAVER,app,com.nhn.android.search,u25,2,도서/참고자료
+1212,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:53:00,added,low,NAVER,app,com.nhn.android.search,u26,2,도서/참고자료
+1213,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:41,added,low,NAVER,app,com.nhn.android.search,u3,2,도서/참고자료
+1214,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:19:32,added,high,NAVER,app,com.nhn.android.search,u6,2,도서/참고자료
+1215,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:48,added,low,NAVER,app,com.nhn.android.search,u8,2,도서/참고자료
+1216,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:56,added,low,NAVER,app,com.nhn.android.search,u9,2,도서/참고자료
+1217,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:00,added,low,PAYCO,app,com.nhnent.payapp,u11,2,라이프스타일
+1218,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:59,added,high,PAYCO,app,com.nhnent.payapp,u14,2,라이프스타일
+1219,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:24,added,low,PAYCO,app,com.nhnent.payapp,u25,2,라이프스타일
+1220,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:57,added,medium,PAYCO,app,com.nhnent.payapp,u3,2,라이프스타일
+1221,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-28 10:58:18,added,high,Pikmin Bloom,app,com.nianticlabs.pikmin,u18,2,게임
+1222,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:59,added,high,NH올원뱅크,app,com.nonghyup.nhallonebank,u25,2,금융
+1223,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:15,added,low,KT 멤버십,app,com.olleh.android.oc2,u24,2,라이프스타일
+1226,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:01,added,low,Samsung Notes,app,com.samsung.android.app.notes,u11,2,생산성
+1227,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:40:49,added,low,Samsung Notes,app,com.samsung.android.app.notes,u9,2,생산성
+1232,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:09:50,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u10,2,도구
+1233,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:10,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u11,2,도구
+1234,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:00,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u12,2,도구
+1242,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:11:27,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u13,2,도구
+1243,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:10:11,added,high,Samsung Wallet,app,com.samsung.android.spay,u10,2,라이프스타일
+1244,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:15:21,added,low,Samsung Wallet,app,com.samsung.android.spay,u11,2,라이프스타일
+1245,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:11:14,added,high,Samsung Wallet,app,com.samsung.android.spay,u13,2,라이프스타일
+1246,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:57:37,added,high,Samsung Wallet,app,com.samsung.android.spay,u14,2,라이프스타일
+1247,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:07,added,high,Samsung Wallet,app,com.samsung.android.spay,u15,2,라이프스타일
+1248,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:56:22,added,low,Samsung Wallet,app,com.samsung.android.spay,u17,2,라이프스타일
+1249,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:53,added,high,Samsung Wallet,app,com.samsung.android.spay,u18,2,라이프스타일
+1250,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:34:08,added,high,Samsung Wallet,app,com.samsung.android.spay,u19,2,라이프스타일
+1251,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:45,added,low,Samsung Wallet,app,com.samsung.android.spay,u21,2,라이프스타일
+1252,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:25,added,medium,Samsung Wallet,app,com.samsung.android.spay,u22,2,라이프스타일
+1253,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:04:15,added,high,Samsung Wallet,app,com.samsung.android.spay,u24,2,라이프스타일
+1254,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2025-01-01 06:31:46,added,low,Samsung Wallet,app,com.samsung.android.spay,u25,2,라이프스타일
+1255,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:57,added,low,Samsung Wallet,app,com.samsung.android.spay,u26,2,라이프스타일
+1256,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:28,added,low,Samsung Wallet,app,com.samsung.android.spay,u3,2,라이프스타일
+1257,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:18:14,added,low,Samsung Wallet,app,com.samsung.android.spay,u6,2,라이프스타일
+1258,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:14,added,high,Samsung Wallet,app,com.samsung.android.spay,u8,2,라이프스타일
+1259,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:06,added,high,Samsung Wallet,app,com.samsung.android.spay,u9,2,라이프스타일
+1260,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:34:52,added,high,Samsung Wallet,app,com.samsung.android.spay,u4,1,라이프스타일
+1261,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:09:10,added,low,Samsung Wallet,app,com.samsung.android.spay,u1,2,라이프스타일
+1262,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:44,added,low,Samsung Members,app,com.samsung.android.voc,u26,2,도구
+1263,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:03:50,added,high,Samsung Health,app,com.sec.android.app.shealth,u10,2,건강/운동
+1270,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:05,added,low,Samsung Push Service,app,com.sec.spp.push,u10,2,커뮤니케이션
+1271,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:03,added,low,Samsung Push Service,app,com.sec.spp.push,u12,2,커뮤니케이션
+1272,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:39,added,low,Samsung Push Service,app,com.sec.spp.push,u15,2,커뮤니케이션
+1273,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:08,added,high,Samsung Push Service,app,com.sec.spp.push,u18,2,커뮤니케이션
+1274,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:38,added,low,Samsung Push Service,app,com.sec.spp.push,u21,2,커뮤니케이션
+1275,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:18:11,added,low,Samsung Push Service,app,com.sec.spp.push,u23,2,커뮤니케이션
+1276,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:24,added,low,Samsung Push Service,app,com.sec.spp.push,u24,2,커뮤니케이션
+1277,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:41,added,low,Samsung Push Service,app,com.sec.spp.push,u26,2,커뮤니케이션
+1278,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:01,added,low,Samsung Push Service,app,com.sec.spp.push,u8,2,커뮤니케이션
+1279,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:25,added,low,Samsung Push Service,app,com.sec.spp.push,u9,2,커뮤니케이션
+1281,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:08,added,low,OK Cashbag,app,com.skmc.okcashbag.home_google,u25,2,라이프스타일
+1282,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:32,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u15,2,도구
+1283,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:32,added,low,T world,app,com.sktelecom.minit,u10,2,라이프스타일
+1284,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:58,added,low,T world,app,com.sktelecom.minit,u16,2,라이프스타일
+1285,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:46,added,low,T world,app,com.sktelecom.minit,u3,2,라이프스타일
+1286,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:03:20,added,high,PASS,app,com.sktelecom.tauth,u10,2,금융
+1287,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:16,added,medium,PASS,app,com.sktelecom.tauth,u12,2,금융
+1288,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:59:09,added,high,PASS,app,com.sktelecom.tauth,u14,2,금융
+1289,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:02:09,added,high,PASS,app,com.sktelecom.tauth,u16,2,금융
+1290,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:21:06,added,high,PASS,app,com.sktelecom.tauth,u18,2,금융
+1291,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:20:49,added,high,PASS,app,com.sktelecom.tauth,u20,2,금융
+1292,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:07:30,added,high,PASS,app,com.sktelecom.tauth,u21,2,금융
+1293,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:52:01,added,low,PASS,app,com.sktelecom.tauth,u26,2,금융
+1294,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:16:17,added,medium,PASS,app,com.sktelecom.tauth,u3,2,금융
+1295,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:03:47,added,high,PASS,app,com.sktelecom.tauth,u1,2,금융
+1296,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:12:28,added,high,Slack,app,com.Slack,u23,2,비즈니스
+1297,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:05:44,added,high,Slack,app,com.Slack,u5,2,비즈니스
+1298,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:30,added,high,Snapchat,app,com.snapchat.android,u4,1,커뮤니케이션
+1299,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:13:10,added,medium,Sound Connect,app,com.sony.songpal.mdr,u23,2,도구
+1300,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:50:22,added,high,Spotify,app,com.spotify.music,u17,2,음악/오디오
+1301,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:14:03,added,high,Spotify,app,com.spotify.music,u3,2,음악/오디오
+1302,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-22 11:47:41,added,high,Spotify,app,com.spotify.music,u4,2,음악/오디오
+1303,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:07:33,added,high,Starbucks,app,com.starbucks.co,u10,2,식음료
+1304,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:21,added,low,STOVE,app,com.stove.mstove.google,u22,2,소셜
+1305,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:25:21,added,medium,SumOne,app,com.sumone,u18,2,라이프스타일
+1306,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:23:53,added,medium,SumOne,app,com.sumone,u20,2,라이프스타일
+1307,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:05:24,added,high,SumOne,app,com.sumone,u24,2,라이프스타일
+1309,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:03:14,added,low,Office Cat,app,com.tree.idle.cat.office,u10,2,게임
+1310,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:36,added,medium,Steam,app,com.valvesoftware.android.steam.community,u4,1,엔터테인먼트
+1311,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:02,added,low,Sudoku,app,easy.sudoku.puzzle.solver.free,u10,2,게임
+1312,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:51:58,added,high,LINE,app,jp.naver.line.android,u17,2,커뮤니케이션
+1313,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:10:18,added,medium,LINE,app,jp.naver.line.android,u6,2,커뮤니케이션
+1314,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:08:16,added,low,SSG.COM,app,kr.co.ssg,u21,2,쇼핑
+1315,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:07,added,high,monimo,app,net.ib.android.smcard,u9,2,금융
+1316,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:16:12,added,low,Skyscanner,app,net.skyscanner.android.main,u11,2,여행 및 지역정보
+1317,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:26:54,added,low,NH pay,app,nh.smart.nhallonepay,u18,2,금융
+1318,83dc8619-af39-4f15-b438-969f072ce778,2024-12-22 17:37:50,added,low,NH pay,app,nh.smart.nhallonepay,u6,2,금융
+1319,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:33:25,added,medium,NH pay,app,nh.smart.nhallonepay,u8,2,금융
+1320,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:00:13,added,medium,NH콕뱅크,app,nh.smart.nhcok,u14,2,금융
+1321,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:36:22,added,high,NH콕뱅크,app,nh.smart.nhcok,u15,2,금융
+1322,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:52,added,low,NH콕뱅크,app,nh.smart.nhcok,u16,2,금융
+1323,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:01:54,added,high,NH콕뱅크,app,nh.smart.nhcok,u24,2,금융
+1324,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:21:54,added,high,NH콕뱅크,app,nh.smart.nhcok,u8,2,금융
+1325,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 21:20:16,added,high,Notion,app,notion.id,u5,2,생산성
+1326,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:23:23,added,medium,Notion,app,notion.id,u8,2,생산성
+1327,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-21 15:53:18,added,low,Gemini,keyword,,u2,2,
+1328,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:05,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u16,2,도구
+1329,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:54:00,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u17,2,도구
+1330,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:25:50,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u18,2,도구
+1331,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:34,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u19,2,도구
+1332,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 13:57:32,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u2,2,도구
+1333,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:25:19,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u20,2,도구
+1334,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:37,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u21,2,도구
+1335,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:39,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u22,2,도구
+1336,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:31,added,high,Galaxy Watch7 Manager,app,com.samsung.wearable.watch7plugin,u20,2,도구
+1337,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:59:03,added,high,Galaxy Watch6 Manager,app,com.samsung.wearable.watch6plugin,u10,2,도구
+1338,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:38:22,added,low,Galaxy Watch6 Manager,app,com.samsung.wearable.watch6plugin,u19,2,도구
+1339,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:37:08,added,low,Galaxy Watch6 Manager,app,com.samsung.wearable.watch6plugin,u22,2,도구
+1340,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:03:32,added,high,Galaxy Watch6 Manager,app,com.samsung.wearable.watch6plugin,u24,2,도구
+1341,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:16:21,added,high,Galaxy Watch5 Manager,app,com.samsung.android.heartplugin,u23,2,도구
+1342,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-21 09:56:08,added,medium,Galaxy Watch Manager,app,com.samsung.android.waterplugin,u4,2,도구
+1343,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:14:29,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u23,2,도구
+1344,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:06,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u24,2,도구
+1345,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:15,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u25,2,도구
+1346,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:54,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u26,2,도구
+1347,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:33,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u3,2,도구
+1348,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:10:44,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u5,2,도구
+1349,83dc8619-af39-4f15-b438-969f072ce778,2024-12-25 13:45:45,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u6,2,도구
+1350,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:29:54,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u7,2,도구
+1351,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:28,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u8,2,도구
+1352,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:57,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u9,2,도구
+1353,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:07:04,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u1,2,도구
+1354,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:35:00,added,low,Galaxy Store,app,com.sec.android.app.samsungapps,u4,1,도구
+1355,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:52:11,added,high,스튜디오,app,com.sec.android.app.vepreload,u17,2,동영상 플레이어/편집기
+1356,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:46,added,low,스튜디오,app,com.sec.android.app.vepreload,u8,2,동영상 플레이어/편집기
+1357,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:57,added,low,스튜디오,app,com.sec.android.app.vepreload,u1,2,동영상 플레이어/편집기
+1358,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:21:26,added,high,날씨,app,com.sec.android.daemonapp,u12,2,날씨
+1359,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:11:49,added,high,날씨,app,com.sec.android.daemonapp,u13,2,날씨
+1360,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:37:36,added,high,날씨,app,com.sec.android.daemonapp,u15,2,날씨
+1361,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:03,added,medium,날씨,app,com.sec.android.daemonapp,u16,2,날씨
+1362,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:49:40,added,medium,날씨,app,com.sec.android.daemonapp,u17,2,날씨
+1363,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:19:38,added,high,날씨,app,com.sec.android.daemonapp,u18,2,날씨
+1364,98c29407-3b7b-4a05-8925-f600db2c0f69,2024-12-23 17:37:30,added,high,날씨,app,com.sec.android.daemonapp,u19,2,날씨
+1365,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:07:43,added,low,날씨,app,com.sec.android.daemonapp,u21,2,날씨
+1366,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:36:02,added,medium,날씨,app,com.sec.android.daemonapp,u22,2,날씨
+1367,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:10:24,added,high,날씨,app,com.sec.android.daemonapp,u23,2,날씨
+1368,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 11:58:21,added,high,날씨,app,com.sec.android.daemonapp,u24,2,날씨
+1369,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:38:00,added,high,Galaxy Buds3 Manager,app,com.samsung.accessory.jellymgr,u15,2,도구
+1370,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:13:31,added,high,Galaxy Buds3 Manager,app,com.samsung.accessory.jellymgr,u3,2,도구
+1371,83dc8619-af39-4f15-b438-969f072ce778,2024-12-25 13:46:26,added,low,for a while,keyword,,u6,2,
+1372,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:36,added,high,Focus To-Do,app,com.superelement.pomodoro,u20,2,생산성
+1373,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:20:04,added,low,FLO,app,skplanet.musicmate,u3,2,음악/오디오
+1374,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:05:07,added,high,FLO,app,skplanet.musicmate,u1,2,음악/오디오
+1375,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:33:26,added,high,날씨,app,com.sec.android.daemonapp,u25,2,날씨
+1376,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:29,added,low,Facebook,app,com.facebook.katana,u16,2,소셜
+1377,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:04:46,added,low,Everytime,app,com.everytime.v2,u10,2,소셜
+1378,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-28 10:24:11,added,low,Easybook,app,easiphone.easibookbustickets,u24,2,여행 및 지역정보
+1379,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:09:47,added,medium,Drive,app,com.google.android.apps.docs,u10,2,생산성
+1380,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:02:50,added,high,Drive,app,com.google.android.apps.docs,u16,2,생산성
+1381,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:51:00,added,medium,날씨,app,com.sec.android.daemonapp,u26,2,날씨
+1382,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:36:01,added,high,Discord,app,com.discord,u4,1,커뮤니케이션
+1383,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:12:32,added,medium,Discord,app,com.discord,u11,2,커뮤니케이션
+1384,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:40,added,high,Discord,app,com.discord,u12,2,커뮤니케이션
+1385,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:04:08,added,high,Discord,app,com.discord,u13,2,커뮤니케이션
+1386,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:49:04,added,high,Discord,app,com.discord,u17,2,커뮤니케이션
+1387,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:09:33,added,low,Discord,app,com.discord,u21,2,커뮤니케이션
+1388,6473938c-137e-4928-bca9-5b41b57a2219,2024-12-26 14:35:40,added,medium,Discord,app,com.discord,u22,2,커뮤니케이션
+1389,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2025-01-01 06:31:32,added,high,Discord,app,com.discord,u25,2,커뮤니케이션
+1390,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:24:51,added,high,Discord,app,com.discord,u7,2,커뮤니케이션
+1391,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:19:55,added,high,Discord,app,com.discord,u8,2,커뮤니케이션
+1392,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:37,added,low,날씨,app,com.sec.android.daemonapp,u3,2,날씨
+1393,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:10:06,added,low,Device care,app,com.samsung.android.lool,u10,2,도구
+1394,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:09:26,added,low,daglo,app,ai.daglo.mobile,u24,2,생산성
+1395,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:12:38,added,low,daglo,app,ai.daglo.mobile,u6,2,생산성
+1396,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:06:23,added,high,Creators' App,app,jp.co.sony.ips.portalapp,u10,2,사진
+1397,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:09,added,low,Coupang Eats,app,com.coupang.mobile.eats,u10,2,식음료
+1398,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:50,added,high,Clock,app,com.sec.android.app.clockpackage,u10,2,도구
+1399,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:20:02,added,low,CJ ONE,app,kr.co.ivlog.mobile.app.cjonecard,u3,2,라이프스타일
+1400,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:40:15,added,low,Cider,app,com.cider,u25,2,쇼핑
+1401,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 14:00:52,added,low,ChromeMobile,keyword,,u2,2,
+1402,83dc8619-af39-4f15-b438-969f072ce778,2024-12-22 23:44:55,added,low,Check Out,keyword,,u6,2,
+1403,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:02:46,added,low,CGV,app,com.cgv.android.movieapp,u10,2,엔터테인먼트
+1404,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:25:42,added,low,CGV,app,com.cgv.android.movieapp,u18,2,엔터테인먼트
+1405,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:28:28,added,low,CapCut,app,com.lemon.lvoverseas,u8,2,동영상 플레이어/편집기
+1406,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:08:03,added,high,날씨,app,com.sec.android.daemonapp,u5,2,날씨
+1407,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:11:20,added,medium,날씨,app,com.sec.android.daemonapp,u6,2,날씨
+1408,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 13:58:00,added,high,Calendar,app,com.samsung.android.calendar,u10,2,생산성
+1409,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-29 18:45:16,added,low,Brave,app,com.brave.browser,u26,2,커뮤니케이션
+1410,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:41,added,high,Bose,app,com.bose.bosemusic,u20,2,음악/오디오
+1411,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:09:21,added,low,Boostcamp,app,com.bpmhealth.boostcamp,u13,2,건강/운동
+1412,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:26:59,added,medium,날씨,app,com.sec.android.daemonapp,u7,2,날씨
+1413,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:19:27,added,high,Binance,app,com.binance.dev,u12,2,금융
+1415,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:06,added,low,BAND,app,com.nhn.android.band,u1,2,소셜
+1416,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:29:36,added,low,BAND,app,com.nhn.android.band,u18,2,소셜
+1417,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:43,added,low,BAND,app,com.nhn.android.band,u25,2,소셜
+1418,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:18:39,added,low,BAND,app,com.nhn.android.band,u3,2,소셜
+1419,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:17:19,added,low,BAND,app,com.nhn.android.band,u6,2,소셜
+1420,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:29:27,added,low,BAND,app,com.nhn.android.band,u8,2,소셜
+1421,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:39:47,added,low,BAND,app,com.nhn.android.band,u9,2,소셜
+1422,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 14:01:02,added,low,Azure,keyword,,u2,2,
+1423,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:31:53,added,medium,날씨,app,com.sec.android.daemonapp,u8,2,날씨
+1424,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:42:10,added,high,날씨,app,com.sec.android.daemonapp,u9,2,날씨
+1425,9d2768c1-9d45-4047-a827-fea8a064eed4,2024-12-19 17:32:18,added,medium,날씨,app,com.sec.android.daemonapp,u4,1,날씨
+1426,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:03:06,added,high,Weather,app,com.sec.android.daemonapp,u10,2,날씨
+1428,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:25:06,added,low,원스토어,app,com.skt.skaf.A000Z00040,u12,2,도구
+1429,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:12:09,added,low,원스토어,app,com.skt.skaf.A000Z00040,u13,2,도구
+1430,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:05:00,added,low,원스토어,app,com.skt.skaf.A000Z00040,u16,2,도구
+1431,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:25,added,high,원스토어,app,com.skt.skaf.A000Z00040,u18,2,도구
+1432,99bf2c2b-9022-4326-9c5a-856a6c43d942,2024-12-24 17:53:03,added,low,원스토어,app,com.skt.skaf.A000Z00040,u26,2,도구
+1433,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:19:43,added,low,원스토어,app,com.skt.skaf.A000Z00040,u3,2,도구
+1434,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:00,added,low,원스토어,app,com.skt.skaf.A000Z00040,u9,2,도구
+1435,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:10:07,added,low,원스토어,app,com.skt.skaf.A000Z00040,u1,2,도구
+1436,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:07:13,added,high,FindPhone,app,com.skt.skaf.OA00412131,u13,2,기타
+1437,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:08:25,added,low,T 서비스,app,com.skt.t_smart_charge,u1,2,기타
+1438,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-23 15:12:03,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u11,2,기본 앱
+1439,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:20:32,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u12,2,기본 앱
+1440,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:12:22,added,low,소프트웨어 업데이트,app,com.wssyncmldm,u13,2,기본 앱
+1441,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 16:02:16,added,low,소프트웨어 업데이트,app,com.wssyncmldm,u14,2,기본 앱
+1442,445dc990-fa87-4adb-9561-61668fdfbeec,2024-12-24 11:28:31,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u18,2,기본 앱
+1443,15ba6f80-01ec-4943-96be-89238ea7e045,2024-12-19 17:43:39,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u2,2,기본 앱
+1444,aebe62b6-7a75-4eed-8aaa-9ae018d6f25f,2024-12-24 10:21:53,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u20,2,기본 앱
+1445,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:17:13,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u23,2,기본 앱
+1446,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:16:27,added,medium,소프트웨어 업데이트,app,com.wssyncmldm,u3,2,기본 앱
+1447,c27da57a-0352-475b-8774-f3adf794acb7,2024-12-20 13:08:07,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u5,2,기본 앱
+1448,ecf2197d-f602-43a9-a9ee-19fd42769c35,2024-12-20 16:27:15,added,medium,소프트웨어 업데이트,app,com.wssyncmldm,u7,2,기본 앱
+1449,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:32:21,added,medium,소프트웨어 업데이트,app,com.wssyncmldm,u8,2,기본 앱
+1450,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:43:27,added,high,소프트웨어 업데이트,app,com.wssyncmldm,u9,2,기본 앱
+1451,3c897afb-e889-4271-9757-b023746ea0cb,2024-12-24 13:09:36,added,low,소프트웨어 업데이트,app,com.wssyncmldm,u1,2,기본 앱
+1452,e43cc655-0333-43c1-ba29-5af45222ce3e,2024-12-21 14:06:38,added,medium,AhnLab V3 Mobile Security,app,com.ahnlab.v3mobilesecurity.soda,u10,2,도구
+1453,62260fa5-6747-48e5-b4ed-7108dbb8d926,2024-12-25 02:19:18,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u11,2,도구
+1454,2ba5adff-c892-433d-813e-983b1193d86f,2024-12-21 16:08:58,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u13,2,도구
+1455,24f2dec0-5cd2-4d6b-b7c1-5cb7f200d72d,2024-12-26 15:56:06,added,high,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u14,2,도구
+1456,20feed4d-f0d6-45a7-926d-dd38de5c57de,2024-12-23 13:42:31,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u15,2,도구
+1457,08f3721f-ae59-4847-8bf5-6bce07074e1b,2024-12-23 14:04:41,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u16,2,도구
+1458,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:07:40,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u21,2,도구
+1459,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:10:42,added,high,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u23,2,도구
+1460,b4d318e3-4117-4c3e-a71d-42dcd205339b,2024-12-26 12:13:03,added,medium,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u24,2,도구
+1461,cb5c77bc-1205-4037-8bf0-f0ef3b2248d8,2024-12-26 11:39:12,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u25,2,도구
+1462,83dc8619-af39-4f15-b438-969f072ce778,2024-12-20 18:13:54,added,high,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u6,2,도구
+1463,7e6a8fd2-f407-4c87-bc28-2637aa024bbc,2024-12-24 13:26:16,added,low,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u8,2,도구
+1464,12b28778-d5d1-4fd5-a6fa-dab049205d04,2024-12-21 16:44:34,added,high,AhnLab V3 Mobile Plus,app,com.ahnlab.v3mobileplus,u9,2,도구
+1465,2ad7bd88-d263-4a66-820c-8367cb5be1b4,2024-12-22 11:23:31,added,low,Adobe Acrobat,app,com.adobe.reader,u12,2,생산성
+1466,b1963a79-a2d2-4af0-849f-5f9e660942a8,2024-12-26 14:10:23,added,medium,11번가,app,com.elevenst,u21,2,쇼핑
+1467,ac3c8549-da14-4c25-a22d-602f56c597ee,2024-12-19 17:17:02,added,low,11번가,app,com.elevenst,u3,2,쇼핑
+1468,5359a173-8c73-4785-b89c-136b47f9f374,2024-12-23 16:59:29,added,low,(광고),keyword,,u17,2,
+1469,b774baa7-99f8-4bea-a55d-0168eee3d9f4,2024-12-24 15:21:19,added,low,(광고),keyword,,u23,2,
