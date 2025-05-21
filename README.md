@@ -1,10 +1,10 @@
 # Customnotif_analyze
 
 ## 실험자 모집
-![Image](https://github.com/user-attachments/assets/43ae269c-bc85-48b5-aa17-9c81ffd2ae96)
+<br/> <img src=https://github.com/user-attachments/assets/43ae269c-bc85-48b5-aa17-9c81ffd2ae96 width="500" height="800"/>
 
 ## 로그 수집 데이터 설명
-<br/> <img src=https://github.com/user-attachments/assets/d4a2aece-55a9-4756-b9e0-b9a34a3eefad width="500" height="600"/>
+<br/> <img src=https://github.com/user-attachments/assets/d4a2aece-55a9-4756-b9e0-b9a34a3eefad width="400" height="500"/>
 <br/> 
 <br/> 'deviceId': 사용자별 개별 디바이스 ID (랜덤 지정)
 <br/> 'eventType': 사용자의 휴대폰 사용 로그 (화면을 키고 끄기, 알림이 옴, 상단바를 내려 알림을 확인 등)
