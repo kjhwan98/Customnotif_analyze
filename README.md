@@ -35,8 +35,8 @@
 ### 전처리 앱: 알림이 로그에는 뜨지만, 자동으로 삭제되는 앱(사용자가 인지 못하는 알림)
 remove = [ "app.revanced.android.youtube", "com.blizzard.messenger", "com.bodyplusone.android.bodycalendar", "com.cashwalk.cashwalk", "com.fast.free.unblock.thunder.vpn", "com.google.android.apps.maps", "com.google.android.apps.tachyon", "com.google.android.packageinstaller", "com.hanbit.rundayfree", "com.ims.dm", "com.kmusicmp3", "com.microsoft.office.outlook", "com.openai.chatgpt", "com.ovpnspider", "com.samsung.android.app.earphonetypec", "com.samsung.android.app.galaxyregistry", "com.samsung.android.app.telephonyui", "com.samsung.android.audiomirroring", "com.samsung.android.bixby.agent", "com.samsung.android.game.gametools", "com.samsung.android.mdecservice", "com.samsung.android.oneconnect", "com.samsung.android.singletake.service", "com.samsung.android.smartmirroring", "com.samsung.android.themestore", "com.samsung.knox.securefolder", "com.sec.android.app.camera", "com.sec.android.app.myfiles", "com.sec.android.easyMover", "com.sec.android.gallery3d", "com.sec.knox.kccagent", "com.shirokovapp.instasave", "com.surfshark.vpnclient.android", "com.whatsapp", "com.windyty.android", "com.wooriib.pib.smart", "droom.sleepIfUCan", "io.runable.runable", "jp.pokemon.pokemontcgp", "kr.co.lylstudio.httpsguard", "kr.go.mobileid", "us.zoom.videomeetings" ]
 
-### 설문지 리스트
-<br/> - 나는 휴대전화가 없으면 공허함을 느낀다
+### 설문지 리스트 (멘탈 지수 평가)
+- 나는 휴대전화가 없으면 공허함을 느낀다
 <br/> - 나는 휴대전화 사용에 많은 시간을 사용하고 있다
 <br/> - 나는 휴대전화에 집착하고 있다
 <br/> - 나는 휴대전화가 없을 때 단절감을 느낀다
