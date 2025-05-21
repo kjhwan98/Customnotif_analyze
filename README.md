@@ -4,7 +4,7 @@
 ![Image](https://github.com/user-attachments/assets/43ae269c-bc85-48b5-aa17-9c81ffd2ae96)
 
 ## 로그 수집 데이터 설명
-![Image](https://github.com/user-attachments/assets/d4a2aece-55a9-4756-b9e0-b9a34a3eefad)
+<br/> <img src=https://github.com/user-attachments/assets/d4a2aece-55a9-4756-b9e0-b9a34a3eefad width="500" height="800"/>
 <br/> 
 <br/> 'deviceId': 사용자별 개별 디바이스 ID (랜덤 지정)
 <br/> 'eventType': 사용자의 휴대폰 사용 로그 (화면을 키고 끄기, 알림이 옴, 상단바를 내려 알림을 확인 등)
@@ -47,4 +47,4 @@ remove = [ "app.revanced.android.youtube", "com.blizzard.messenger", "com.bodypl
 <br/> - 알림을 처리하는 동안, 나는 다른 업무를 제대로 수행할 수 없을 정도로 피곤함을 느낀다.
 
 ### 관련 논문 정리
-[논문](https://docs.google.com/spreadsheets/d/1agNk2Z9rJXQGeGbLCixgLzCGnnxc4Rr6/edit?usp=sharing&ouid=113323787086455513564&rtpof=true&sd=true)
+[스프레드시트](https://docs.google.com/spreadsheets/d/1agNk2Z9rJXQGeGbLCixgLzCGnnxc4Rr6/edit?usp=sharing&ouid=113323787086455513564&rtpof=true&sd=true)
