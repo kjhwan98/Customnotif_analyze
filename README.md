@@ -1,10 +1,12 @@
 # Customnotif_analyze
+- [배포 앱(데이터 수집)](https://github.com/kjhwan98/Customnotif)
 - [Empowering Individual Preferences in Mobile Notifications: A Balanced Approach to Cognitive Load and Information Needs (IEEE)](https://ieeexplore.ieee.org/document/10916668)
 
 ### 파일 설명
 데이터가 프라이빗해서 전처리된 파일과 코드를 일부만 공개
 <br/> 시각화 -> 결과 시각화: 전처리된 csv 파일로 핵심 결과 시각화
-<br/> 전처리 -> 알림 전처리: 핵심 전처리 과정
+<br/> 전처리 -> 유저별 전처리: 사용자별 실험 기간이 다름 / 알림이 포스트되고 삭제되는 행을 합침
+<br/> 전처리 -> 시각화 데이터 추출: 볼 결과 데이터만 추출하는 코드
 <br/> 전처리 -> Fire to csv: 파이어베이스에서 수집되는 데이터 연동
 
 ### 실험자 모집
