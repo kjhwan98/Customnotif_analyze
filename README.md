@@ -1,5 +1,5 @@
 # Customnotif_analyze
-[배포 앱](https://github.com/kjhwan98/Customnotif)
+- [배포 앱(데이터수집)](https://github.com/kjhwan98/Customnotif)
 - [Empowering Individual Preferences in Mobile Notifications: A Balanced Approach to Cognitive Load and Information Needs (IEEE)](https://ieeexplore.ieee.org/document/10916668)
 
 ### 파일 설명
