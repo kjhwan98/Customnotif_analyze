@@ -34,7 +34,6 @@
 | `removal_reason`       | 알림 제거 이유 (클릭, 스와이프, 모두 지우기, 자동 취소 등)           |
 | `removal_time`         | 알림이 제거된 시간                                                   |
 
-<img src=https://github.com/user-attachments/assets/d4a2aece-55a9-4756-b9e0-b9a34a3eefad width="400" height="500"/>
 <br/> 
 
 ### 전처리 앱: 알림이 로그에는 뜨지만, 자동으로 삭제되는 앱(사용자가 인지 못하는 알림)
