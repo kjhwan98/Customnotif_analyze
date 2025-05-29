@@ -11,6 +11,27 @@
 <img src=https://github.com/user-attachments/assets/43ae269c-bc85-48b5-aa17-9c81ffd2ae96 width="500" height="800"/>
 
 ### 로그 수집 데이터 설명
+| 컬럼명                 | 설명                                                                 |
+|------------------------|----------------------------------------------------------------------|
+| `deviceId`             | 사용자별 개별 디바이스 ID (랜덤 지정)                                 |
+| `eventType`            | 사용자의 휴대폰 사용 로그 (화면 On/Off, 알림 수신, 상단바 확인 등)    |
+| `isCharging`           | 충전 중인지 여부                                                      |
+| `package_name`         | 앱 패키지명 (앱 이름)                                                |
+| `ringerMode`           | 알림 모드 (무음, 진동, 소리)                                         |
+| `timestamp`            | 이벤트 발생 시간                                                     |
+| `className`            | 앱 내 클래스명 (사용하지 않음)                                       |
+| `action`               | 앱 사용 행동 (아이템 제거, 추가, 요청 버튼 클릭 등)                  |
+| `importanceLevel`      | 설정한 알림 수신 모드 (즉시받기 / 사용중 받기 / 요청시 받기)         |
+| `itemName`             | 설정한 아이템의 이름 (앱 이름, 키워드 내용)                          |
+| `itemType`             | 설정한 아이템의 유형 (앱 / 키워드)                                   |
+| `pendingNotificationCount` | 알림 요청 버튼 클릭 시 쌓여 있던 알림 수                              |
+| `notification_id`      | 알림 ID (동일 앱 내 다른 종류의 알림 구분 가능)                      |
+| `post_time`            | 알림이 수신된 시간                                                   |
+| `text`                 | 알림 텍스트 (프라이버시 보호를 위해 앞뒤 3글자만 남기고 익명화)       |
+| `title`                | 알림 제목                                                            |
+| `removal_reason`       | 알림 제거 이유 (클릭, 스와이프, 모두 지우기, 자동 취소 등)           |
+| `removal_time`         | 알림이 제거된 시간                                                   |
+
 <img src=https://github.com/user-attachments/assets/d4a2aece-55a9-4756-b9e0-b9a34a3eefad width="400" height="500"/>
 <br/> 
 <br/> 'deviceId': 사용자별 개별 디바이스 ID (랜덤 지정)
