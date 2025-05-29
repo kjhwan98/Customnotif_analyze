@@ -1,5 +1,5 @@
 # Customnotif_analyze
-- [User-Adaptive Notification System using Smartphone Usage Patterns and Reinforcement Learning (IEEE)](https://ieeexplore.ieee.org/document/10916668)
+- [Empowering Individual Preferences in Mobile Notifications: A Balanced Approach to Cognitive Load and Information Needs (IEEE)](https://ieeexplore.ieee.org/document/10916668)
 
 ### 파일 설명
 데이터가 프라이빗해서 전처리된 파일과 코드를 일부만 공개
